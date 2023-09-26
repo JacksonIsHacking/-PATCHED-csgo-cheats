@@ -1,0 +1,8463 @@
+{
+  "Aimbot": [
+    {
+      "Aimlock": true,
+      "Between shots": false,
+      "Bone": 2,
+      "Enabled": true,
+      "Fov": 3.13,
+      "Ignore flash": true,
+      "Ignore smoke": true,
+      "Min damage": 28,
+      "Smooth": 9.76
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {
+      "Scoped only": false,
+      "Visible only": false
+    },
+    {}
+  ],
+  "Aimbot Key": "J",
+  "Aimbot Key mode": 1,
+  "Aimbot On key": true,
+  "Backtrack": {
+    "Enabled": true,
+    "Time limit": 18
+  },
+  "Chams": {
+    "Defusing": {
+      "Materials": [
+        {
+          "Enabled": true
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    "Enemies": {
+      "Materials": [
+        {
+          "Material": "Animated"
+        },
+        {
+          "Cover": true,
+          "Enabled": true,
+          "Ignore-Z": true,
+          "Material": "Animated",
+          "Wireframe": true
+        },
+        {
+          "Cover": true,
+          "Enabled": true,
+          "Ignore-Z": true,
+          "Material": "Chrome",
+          "Wireframe": true
+        },
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "ESP": {
+    "Enemies": {
+      "All": {
+        "Box": {
+          "Alpha": 1.0,
+          "Color": "#2000ff",
+          "Enabled": true,
+          "Rainbow": true,
+          "Rainbow Speed": 0.9299997,
+          "Rounding": 1.8000003
+        },
+        "Enabled": true,
+        "Flash Duration": {
+          "Alpha": 1.0,
+          "Color": "#fff200",
+          "Enabled": true
+        },
+        "Font": {
+          "Name": "Default"
+        },
+        "Name": {
+          "Alpha": 1.0,
+          "Color": "#ff0000",
+          "Enabled": true
+        },
+        "Text Cull Distance": 6.800001,
+        "Weapon": {
+          "Alpha": 1.0,
+          "Color": "#000000",
+          "Enabled": true
+        }
+      },
+      "Visible": {
+        "Enabled": true,
+        "Font": {
+          "Name": "Bahnschrift Light"
+        },
+        "Health Bar": {
+          "Alpha": 1.0,
+          "Color": "#80e159",
+          "Enabled": true,
+          "Type": 1
+        },
+        "Weapon": {
+          "Enabled": true
+        }
+      }
+    },
+    "Projectiles": {
+      "Flashbang": {
+        "Box": {
+          "Alpha": 1.0,
+          "Color": "#084fff",
+          "Enabled": true
+        },
+        "Enabled": true
+      },
+      "HE Grenade": {
+        "Box": {
+          "Alpha": 1.0,
+          "Color": "#ff0000",
+          "Enabled": true
+        },
+        "Enabled": true
+      },
+      "Molotov": {
+        "Box": {
+          "Alpha": 1.0,
+          "Color": "#ff0000",
+          "Enabled": true
+        },
+        "Enabled": true,
+        "Name": {
+          "Enabled": true
+        }
+      },
+      "Smoke Grenade": {
+        "Box": {
+          "Alpha": 1.0,
+          "Color": "#99f97d"
+        },
+        "Enabled": true
+      },
+      "TA Grenade": {
+        "Box": {
+          "Alpha": 1.0,
+          "Color": "#ff0000"
+        },
+        "Enabled": true
+      }
+    },
+    "Weapons": {
+      "All": {
+        "Ammo": {
+          "Enabled": true
+        },
+        "Enabled": true,
+        "Name": {
+          "Enabled": true
+        },
+        "Text Cull Distance": 9.999999
+      }
+    }
+  },
+  "Glow": {
+    "Items": {
+      "C4": {
+        "Alpha": 1.0,
+        "Color": "#71bf15",
+        "Enabled": true
+      },
+      "Planted C4": {
+        "Alpha": 1.0,
+        "Color": "#547b48",
+        "Enabled": true
+      }
+    },
+    "Players": {
+      "Defusing": {
+        "Visible": {
+          "Alpha": 1.0,
+          "Color": "#a3fff0"
+        }
+      },
+      "Enemies": {
+        "All": {
+          "Alpha": 1.0,
+          "Color": "#00fffa"
+        },
+        "Visible": {
+          "Alpha": 1.0,
+          "Color": "#299c09",
+          "Enabled": true,
+          "Style": 1
+        }
+      }
+    }
+  },
+  "Inventory Changer": {
+    "Items": [
+      {
+        "Item Name": "Glock-18",
+        "Paint Kit": 586,
+        "Paint Kit Name": "Wasteland Rebel",
+        "Seed": 943,
+        "Weapon ID": 4,
+        "Wear": 0.005203897
+      },
+      {
+        "Item Name": "AK-47",
+        "Paint Kit": 302,
+        "Paint Kit Name": "Vulcan",
+        "Seed": 27,
+        "Weapon ID": 7,
+        "Wear": 0.05722071
+      },
+      {
+        "Equipped": [
+          "CT"
+        ],
+        "Equipped Slot": 17,
+        "Item Name": "AUG",
+        "Paint Kit": 280,
+        "Paint Kit Name": "Chameleon",
+        "Seed": 830,
+        "Weapon ID": 8,
+        "Wear": 0.000684653
+      },
+      {
+        "Item Name": "Karambit",
+        "Paint Kit": 415,
+        "Paint Kit Name": "Doppler",
+        "Seed": 138,
+        "Weapon ID": 507,
+        "Wear": 0.0053497558
+      },
+      {
+        "Item Name": "Specialist Gloves",
+        "Paint Kit": 10034,
+        "Paint Kit Name": "Emerald Web",
+        "Seed": 157,
+        "Weapon ID": 5034,
+        "Wear": 0.09667153
+      },
+      {
+        "Item Name": "Karambit",
+        "Paint Kit": 44,
+        "Paint Kit Name": "Case Hardened",
+        "Seed": 98,
+        "Weapon ID": 507,
+        "Wear": 0.020399272
+      },
+      {
+        "Item Name": "Sport Gloves",
+        "Paint Kit": 10048,
+        "Paint Kit Name": "Vice",
+        "Seed": 953,
+        "Weapon ID": 5030,
+        "Wear": 0.103456095
+      },
+      {
+        "Item Name": "Ursus Knife",
+        "Paint Kit": 413,
+        "Paint Kit Name": "Marble Fade",
+        "Seed": 900,
+        "Weapon ID": 519,
+        "Wear": 0.0030308457
+      },
+      {
+        "Item Name": "Butterfly Knife",
+        "Paint Kit": 415,
+        "Paint Kit Name": "Doppler",
+        "Seed": 243,
+        "Weapon ID": 515,
+        "Wear": 0.0012674326
+      },
+      {
+        "Equipped": [
+          "CT",
+          "TT"
+        ],
+        "Equipped Slot": 10,
+        "Item Name": "UMP-45",
+        "Paint Kit": 879,
+        "Paint Kit Name": "Fade",
+        "Seed": 838,
+        "Weapon ID": 24,
+        "Wear": 0.005070112
+      },
+      {
+        "Item Name": "Five-SeveN",
+        "Paint Kit": 274,
+        "Paint Kit Name": "Copper Galaxy",
+        "Seed": 960,
+        "Weapon ID": 3,
+        "Wear": 0.0062639723
+      },
+      {
+        "Item Name": "Karambit",
+        "Paint Kit": 568,
+        "Paint Kit Name": "Gamma Doppler",
+        "Seed": 804,
+        "Weapon ID": 507,
+        "Wear": 0.00449186
+      },
+      {
+        "Equipped": [
+          "TT"
+        ],
+        "Equipped Slot": 5,
+        "Item Name": "Tec-9",
+        "Paint Kit": 614,
+        "Paint Kit Name": "Fuel Injector",
+        "Seed": 239,
+        "Weapon ID": 30,
+        "Wear": 0.029390505
+      },
+      {
+        "Item Name": "Talon Knife",
+        "Paint Kit": 12,
+        "Paint Kit Name": "Crimson Web",
+        "Seed": 236,
+        "Weapon ID": 523,
+        "Wear": 0.091599375
+      },
+      {
+        "Item Name": "Specialist Gloves",
+        "Paint Kit": 10065,
+        "Paint Kit Name": "Marble Fade",
+        "Seed": 796,
+        "Weapon ID": 5034,
+        "Wear": 0.11152512
+      },
+      {
+        "Item Name": "Sport Gloves",
+        "Paint Kit": 10038,
+        "Paint Kit Name": "Hedge Maze",
+        "Seed": 216,
+        "Weapon ID": 5030,
+        "Wear": 0.099800974
+      },
+      {
+        "Item Name": "Skeleton Knife",
+        "Paint Kit": 12,
+        "Paint Kit Name": "Crimson Web",
+        "Seed": 907,
+        "Weapon ID": 525,
+        "Wear": 0.06749135
+      },
+      {
+        "Item Name": "M9 Bayonet",
+        "Paint Kit": 568,
+        "Paint Kit Name": "Gamma Doppler",
+        "Seed": 618,
+        "Weapon ID": 508,
+        "Wear": 0.0014761128
+      },
+      {
+        "Equipped": [
+          "CT",
+          "TT"
+        ],
+        "Equipped Slot": 20,
+        "Item Name": "Nova",
+        "Paint Kit": 537,
+        "Paint Kit Name": "Hyper Beast",
+        "Seed": 235,
+        "Weapon ID": 35,
+        "Wear": 0.026878612
+      },
+      {
+        "Equipped": [
+          "CT"
+        ],
+        "Equipped Slot": 19,
+        "Item Name": "SCAR-20",
+        "Paint Kit": 954,
+        "Paint Kit Name": "Enforcer",
+        "Seed": 692,
+        "Weapon ID": 38,
+        "Wear": 0.03427808
+      },
+      {
+        "Equipped": [
+          "CT"
+        ],
+        "Equipped Slot": 11,
+        "Item Name": "P90",
+        "Paint Kit": 359,
+        "Paint Kit Name": "Asiimov",
+        "Seed": 260,
+        "Weapon ID": 19,
+        "Wear": 0.048478656
+      },
+      {
+        "Equipped": [
+          "CT",
+          "TT"
+        ],
+        "Equipped Slot": 24,
+        "Item Name": "Negev",
+        "Paint Kit": 514,
+        "Paint Kit Name": "Power Loader",
+        "Seed": 615,
+        "Weapon ID": 28,
+        "Wear": 0.039494958
+      },
+      {
+        "Item Name": "M9 Bayonet",
+        "Paint Kit": 413,
+        "Paint Kit Name": "Marble Fade",
+        "Seed": 286,
+        "Weapon ID": 508,
+        "Wear": 0.00067351415
+      },
+      {
+        "Item Name": "M9 Bayonet",
+        "Paint Kit": 415,
+        "Paint Kit Name": "Doppler",
+        "Seed": 194,
+        "Weapon ID": 508,
+        "Wear": 0.0019171485
+      },
+      {
+        "Item Name": "Flip Knife",
+        "Paint Kit": 413,
+        "Paint Kit Name": "Marble Fade",
+        "Seed": 536,
+        "Weapon ID": 505,
+        "Wear": 0.00219259
+      },
+      {
+        "Item Name": "Butterfly Knife",
+        "Paint Kit": 1105,
+        "Paint Kit Name": "Lore",
+        "Seed": 717,
+        "Weapon ID": 515,
+        "Wear": 0.043194104
+      },
+      {
+        "Item Name": "Butterfly Knife",
+        "Paint Kit": 1115,
+        "Paint Kit Name": "Autotronic",
+        "Seed": 83,
+        "Weapon ID": 515,
+        "Wear": 0.05183495
+      },
+      {
+        "Item Name": "AK-47",
+        "Paint Kit": 921,
+        "Paint Kit Name": "Gold Arabesque",
+        "Seed": 561,
+        "Weapon ID": 7,
+        "Wear": 0.015502336
+      },
+      {
+        "Item Name": "Ursus Knife",
+        "Paint Kit": 857,
+        "Paint Kit Name": "Damascus Steel",
+        "Seed": 514,
+        "Weapon ID": 519,
+        "Wear": 0.013690467
+      },
+      {
+        "Item Name": "Stiletto Knife",
+        "Paint Kit": 857,
+        "Paint Kit Name": "Damascus Steel",
+        "Seed": 726,
+        "Weapon ID": 522,
+        "Wear": 0.010634102
+      },
+      {
+        "Item Name": "Desert Eagle",
+        "Paint Kit": 185,
+        "Paint Kit Name": "Golden Koi",
+        "Seed": 566,
+        "Weapon ID": 1,
+        "Wear": 0.0036194404
+      },
+      {
+        "Equipped": [
+          "CT"
+        ],
+        "Equipped Slot": 5,
+        "Item Name": "Five-SeveN",
+        "Paint Kit": 979,
+        "Paint Kit Name": "Fairy Tale",
+        "Seed": 627,
+        "Weapon ID": 3,
+        "Wear": 0.052671738
+      },
+      {
+        "Item Name": "Flip Knife",
+        "Paint Kit": 416,
+        "Paint Kit Name": "Doppler",
+        "Seed": 865,
+        "Weapon ID": 505,
+        "Wear": 0.004385515
+      },
+      {
+        "Equipped": [
+          "CT"
+        ],
+        "Equipped Slot": 41,
+        "Item Name": "Sport Gloves",
+        "Paint Kit": 10037,
+        "Paint Kit Name": "Pandora's Box",
+        "Seed": 323,
+        "Weapon ID": 5030,
+        "Wear": 0.0835556
+      },
+      {
+        "Item Name": "Specialist Gloves",
+        "Paint Kit": 10033,
+        "Paint Kit Name": "Crimson Kimono",
+        "Seed": 417,
+        "Weapon ID": 5034,
+        "Wear": 0.077834785
+      },
+      {
+        "Item Name": "Hand Wraps",
+        "Paint Kit": 10053,
+        "Paint Kit Name": "Cobalt Skulls",
+        "Seed": 715,
+        "Weapon ID": 5032,
+        "Wear": 0.07939831
+      },
+      {
+        "Equipped": [
+          "CT",
+          "TT"
+        ],
+        "Equipped Slot": 3,
+        "Item Name": "Dual Berettas",
+        "Paint Kit": 453,
+        "Paint Kit Name": "Emerald",
+        "Seed": 943,
+        "Weapon ID": 2,
+        "Wear": 0.0019122887
+      },
+      {
+        "Equipped": [
+          "NOTEAM"
+        ],
+        "Equipped Slot": 55,
+        "Item Name": "2022 Service Medal",
+        "Weapon ID": 4819
+      },
+      {
+        "Item Name": "AK-47",
+        "Paint Kit": 282,
+        "Paint Kit Name": "Redline",
+        "Seed": 718,
+        "StatTrak": 18,
+        "Stickers": [
+          {
+            "Slot": 0,
+            "Sticker ID": 60
+          },
+          {
+            "Slot": 1,
+            "Sticker ID": 60
+          },
+          {
+            "Slot": 2,
+            "Sticker ID": 60
+          },
+          {
+            "Slot": 3,
+            "Sticker ID": 60
+          }
+        ],
+        "Weapon ID": 7,
+        "Wear": 0.1
+      },
+      {
+        "Item Name": "Desert Eagle",
+        "Paint Kit": 1090,
+        "Paint Kit Name": "Ocean Drive",
+        "Seed": 594,
+        "Stickers": [
+          {
+            "Slot": 0,
+            "Sticker ID": 80
+          }
+        ],
+        "Weapon ID": 1,
+        "Wear": 0.048537116
+      },
+      {
+        "Equipped": [
+          "TT"
+        ],
+        "Equipped Slot": 2,
+        "Item Name": "Glock-18",
+        "Paint Kit": 957,
+        "Paint Kit Name": "Bullet Queen",
+        "Seed": 285,
+        "StatTrak": 12,
+        "Stickers": [
+          {
+            "Slot": 2,
+            "Sticker ID": 60
+          }
+        ],
+        "Weapon ID": 4,
+        "Wear": 0.0
+      },
+      {
+        "Equipped": [
+          "TT"
+        ],
+        "Equipped Slot": 14,
+        "Item Name": "Galil AR",
+        "Paint Kit": 398,
+        "Paint Kit Name": "Chatterbox",
+        "Seed": 277,
+        "StatTrak": 2,
+        "Stickers": [
+          {
+            "Slot": 3,
+            "Sticker ID": 53
+          }
+        ],
+        "Weapon ID": 13,
+        "Wear": 0.35
+      },
+      {
+        "Item Name": "FAMAS",
+        "Paint Kit": 919,
+        "Paint Kit Name": "Commemoration",
+        "Seed": 8,
+        "StatTrak": 1,
+        "Stickers": [
+          {
+            "Slot": 0,
+            "Sticker ID": 74
+          }
+        ],
+        "Weapon ID": 10,
+        "Wear": 0.031791255
+      },
+      {
+        "Equipped": [
+          "TT"
+        ],
+        "Equipped Slot": 8,
+        "Item Name": "MAC-10",
+        "Paint Kit": 898,
+        "Paint Kit Name": "Stalker",
+        "Seed": 10,
+        "StatTrak": 0,
+        "Stickers": [
+          {
+            "Slot": 0,
+            "Sticker ID": 62
+          }
+        ],
+        "Weapon ID": 17,
+        "Wear": 0.034574386
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 887,
+        "Paint Kit Name": "Containment Breach",
+        "Seed": 420,
+        "StatTrak": 0,
+        "Stickers": [
+          {
+            "Slot": 3,
+            "Sticker ID": 80
+          }
+        ],
+        "Weapon ID": 9,
+        "Wear": 0.030440055
+      },
+      {
+        "Item Name": "Dual Berettas",
+        "Paint Kit": 220,
+        "Paint Kit Name": "Hemoglobin",
+        "Seed": 872,
+        "StatTrak": 0,
+        "Stickers": [
+          {
+            "Slot": 0,
+            "Sticker ID": 60
+          },
+          {
+            "Slot": 1,
+            "Sticker ID": 60
+          },
+          {
+            "Slot": 2,
+            "Sticker ID": 60
+          }
+        ],
+        "Weapon ID": 2,
+        "Wear": 0.005122636
+      },
+      {
+        "Item Name": "Desert Eagle",
+        "Paint Kit": 37,
+        "Paint Kit Name": "Blaze",
+        "Seed": 738,
+        "StatTrak": 4,
+        "Stickers": [
+          {
+            "Slot": 0,
+            "Sticker ID": 60
+          },
+          {
+            "Slot": 1,
+            "Sticker ID": 60
+          },
+          {
+            "Slot": 2,
+            "Sticker ID": 60
+          }
+        ],
+        "Weapon ID": 1,
+        "Wear": 0.0016243965
+      },
+      {
+        "Equipped": [
+          "CT"
+        ],
+        "Equipped Slot": 18,
+        "Item Name": "AWP",
+        "Paint Kit": 756,
+        "Paint Kit Name": "Gungnir",
+        "Seed": 682,
+        "StatTrak": 34,
+        "Stickers": [
+          {
+            "Slot": 0,
+            "Sticker ID": 76
+          },
+          {
+            "Slot": 1,
+            "Sticker ID": 76
+          },
+          {
+            "Slot": 2,
+            "Sticker ID": 76
+          },
+          {
+            "Slot": 3,
+            "Sticker ID": 76
+          }
+        ],
+        "Weapon ID": 9,
+        "Wear": 0.00772592
+      },
+      {
+        "Item Name": "SG 553",
+        "Paint Kit": 750,
+        "Paint Kit Name": "Integrale",
+        "Seed": 77,
+        "StatTrak": 0,
+        "Stickers": [
+          {
+            "Slot": 0,
+            "Sticker ID": 76
+          },
+          {
+            "Slot": 2,
+            "Sticker ID": 62
+          },
+          {
+            "Slot": 3,
+            "Sticker ID": 74
+          }
+        ],
+        "Weapon ID": 39,
+        "Wear": 0.039772946
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 736,
+        "Paint Kit Name": "The Prince",
+        "Seed": 425,
+        "StatTrak": 0,
+        "Stickers": [
+          {
+            "Slot": 3,
+            "Sticker ID": 60
+          }
+        ],
+        "Weapon ID": 9,
+        "Wear": 0.02733946
+      },
+      {
+        "Item Name": "M4A4",
+        "Paint Kit": 1041,
+        "Paint Kit Name": "In Living Color",
+        "Seed": 686,
+        "StatTrak": 2,
+        "Stickers": [
+          {
+            "Slot": 0,
+            "Sticker ID": 62
+          },
+          {
+            "Slot": 1,
+            "Sticker ID": 62
+          },
+          {
+            "Slot": 2,
+            "Sticker ID": 62
+          },
+          {
+            "Slot": 3,
+            "Sticker ID": 62
+          }
+        ],
+        "Weapon ID": 16,
+        "Wear": 0.015455352
+      },
+      {
+        "Equipped": [
+          "CT"
+        ],
+        "Equipped Slot": 4,
+        "Item Name": "P250",
+        "Paint Kit": 102,
+        "Paint Kit Name": "Whiteout",
+        "Seed": 667,
+        "StatTrak": 1,
+        "Stickers": [
+          {
+            "Slot": 0,
+            "Sticker ID": 53
+          },
+          {
+            "Slot": 1,
+            "Sticker ID": 60
+          },
+          {
+            "Slot": 2,
+            "Sticker ID": 62
+          },
+          {
+            "Slot": 3,
+            "Sticker ID": 76
+          }
+        ],
+        "Weapon ID": 36,
+        "Wear": 0.10121466
+      },
+      {
+        "Equipped": [
+          "TT"
+        ],
+        "Equipped Slot": 4,
+        "Item Name": "P250",
+        "Paint Kit": 404,
+        "Paint Kit Name": "Muertos",
+        "Seed": 710,
+        "StatTrak": 0,
+        "Stickers": [
+          {
+            "Slot": 0,
+            "Sticker ID": 60
+          },
+          {
+            "Slot": 1,
+            "Sticker ID": 60
+          },
+          {
+            "Slot": 2,
+            "Sticker ID": 60
+          },
+          {
+            "Slot": 3,
+            "Sticker ID": 60
+          }
+        ],
+        "Weapon ID": 36,
+        "Wear": 0.0070642433
+      },
+      {
+        "Item Name": "SSG 08",
+        "Paint Kit": 1101,
+        "Paint Kit Name": "Turbo Peek",
+        "Seed": 308,
+        "StatTrak": 13,
+        "Weapon ID": 40,
+        "Wear": 0.03307432
+      },
+      {
+        "Equipped": [
+          "CT",
+          "TT"
+        ],
+        "Equipped Slot": 12,
+        "Item Name": "PP-Bizon",
+        "Paint Kit": 542,
+        "Paint Kit Name": "Judgement of Anubis",
+        "Seed": 97,
+        "StatTrak": 0,
+        "Weapon ID": 26,
+        "Wear": 0.0046946243
+      },
+      {
+        "Equipped": [
+          "TT"
+        ],
+        "Equipped Slot": 22,
+        "Item Name": "Sawed-Off",
+        "Paint Kit": 953,
+        "Paint Kit Name": "Apocalypto",
+        "Seed": 171,
+        "StatTrak": 0,
+        "Weapon ID": 29,
+        "Wear": 0.025506081
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 51,
+        "Paint Kit Name": "Lightning Strike",
+        "Seed": 163,
+        "StatTrak": 65,
+        "Weapon ID": 9,
+        "Wear": 0.003711295
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 344,
+        "Paint Kit Name": "Dragon Lore",
+        "Seed": 549,
+        "StatTrak": 0,
+        "Weapon ID": 9,
+        "Wear": 0.024056057
+      },
+      {
+        "Item Name": "USP-S",
+        "Paint Kit": 504,
+        "Paint Kit Name": "Kill Confirmed",
+        "Seed": 603,
+        "StatTrak": 0,
+        "Weapon ID": 61,
+        "Wear": 0.025039777
+      },
+      {
+        "Item Name": "USP-S",
+        "Paint Kit": 991,
+        "Paint Kit Name": "Monster Mashup",
+        "Seed": 974,
+        "StatTrak": 0,
+        "Weapon ID": 61,
+        "Wear": 0.03043459
+      },
+      {
+        "Equipped": [
+          "CT"
+        ],
+        "Equipped Slot": 22,
+        "Item Name": "MAG-7",
+        "Paint Kit": 948,
+        "Paint Kit Name": "Justice",
+        "Seed": 43,
+        "StatTrak": 0,
+        "Weapon ID": 27,
+        "Wear": 0.0022520565
+      },
+      {
+        "Equipped": [
+          "CT"
+        ],
+        "Equipped Slot": 8,
+        "Item Name": "MP9",
+        "Paint Kit": 1134,
+        "Paint Kit Name": "Starlight Protector",
+        "Seed": 639,
+        "StatTrak": 4,
+        "Weapon ID": 34,
+        "Wear": 0.003599089
+      },
+      {
+        "Equipped": [
+          "TT"
+        ],
+        "Equipped Slot": 17,
+        "Item Name": "SG 553",
+        "Paint Kit": 1084,
+        "Paint Kit Name": "Hazard Pay",
+        "Seed": 31,
+        "StatTrak": 0,
+        "Weapon ID": 39,
+        "Wear": 0.009570494
+      },
+      {
+        "Item Name": "M4A4",
+        "Paint Kit": 255,
+        "Paint Kit Name": "Asiimov",
+        "Seed": 210,
+        "StatTrak": 10,
+        "Weapon ID": 16,
+        "Wear": 0.18460919
+      },
+      {
+        "Equipped": [
+          "CT"
+        ],
+        "Equipped Slot": 2,
+        "Item Name": "USP-S",
+        "Paint Kit": 1065,
+        "Paint Kit Name": "Whiteout",
+        "Seed": 902,
+        "StatTrak": 17,
+        "Stickers": [
+          {
+            "Slot": 0,
+            "Sticker ID": 62
+          },
+          {
+            "Slot": 1,
+            "Sticker ID": 53
+          },
+          {
+            "Slot": 2,
+            "Sticker ID": 62
+          },
+          {
+            "Slot": 3,
+            "Sticker ID": 80
+          }
+        ],
+        "Weapon ID": 61,
+        "Wear": 0.10076545
+      },
+      {
+        "Item Name": "Bayonet",
+        "Paint Kit": 418,
+        "Paint Kit Name": "Doppler",
+        "Seed": 92,
+        "Weapon ID": 500,
+        "Wear": 0.0014281716
+      },
+      {
+        "Item Name": "Bayonet",
+        "Paint Kit": 415,
+        "Paint Kit Name": "Doppler",
+        "Seed": 901,
+        "Weapon ID": 500,
+        "Wear": 0.0032589077
+      },
+      {
+        "Item Name": "Bayonet",
+        "Paint Kit": 416,
+        "Paint Kit Name": "Doppler",
+        "Seed": 511,
+        "Weapon ID": 500,
+        "Wear": 0.0041230964
+      },
+      {
+        "Item Name": "Bayonet",
+        "Paint Kit": 417,
+        "Paint Kit Name": "Doppler",
+        "Seed": 692,
+        "Weapon ID": 500,
+        "Wear": 0.0050725345
+      },
+      {
+        "Item Name": "Bayonet",
+        "Paint Kit": 38,
+        "Paint Kit Name": "Fade",
+        "Seed": 540,
+        "Weapon ID": 500,
+        "Wear": 0.0023008694
+      },
+      {
+        "Item Name": "M9 Bayonet",
+        "Paint Kit": 416,
+        "Paint Kit Name": "Doppler",
+        "Seed": 308,
+        "Weapon ID": 508,
+        "Wear": 0.0033150974
+      },
+      {
+        "Item Name": "SSG 08",
+        "Paint Kit": 222,
+        "Paint Kit Name": "Blood in the Water",
+        "Seed": 895,
+        "Weapon ID": 40,
+        "Wear": 0.060584534
+      },
+      {
+        "Item Name": "SSG 08",
+        "Paint Kit": 899,
+        "Paint Kit Name": "Bloodshot",
+        "Seed": 652,
+        "Weapon ID": 40,
+        "Wear": 0.16743684
+      },
+      {
+        "Item Name": "SSG 08",
+        "Paint Kit": 319,
+        "Paint Kit Name": "Detour",
+        "Seed": 305,
+        "Weapon ID": 40,
+        "Wear": 0.0032576814
+      },
+      {
+        "Equipped": [
+          "CT",
+          "TT"
+        ],
+        "Equipped Slot": 16,
+        "Item Name": "SSG 08",
+        "Paint Kit": 624,
+        "Paint Kit Name": "Dragonfire",
+        "Seed": 111,
+        "Weapon ID": 40,
+        "Wear": 0.030230254
+      },
+      {
+        "Item Name": "SSG 08",
+        "Paint Kit": 956,
+        "Paint Kit Name": "Fever Dream",
+        "Seed": 403,
+        "Weapon ID": 40,
+        "Wear": 0.023296703
+      },
+      {
+        "Item Name": "SSG 08",
+        "Paint Kit": 554,
+        "Paint Kit Name": "Ghost Crusader",
+        "Seed": 512,
+        "Weapon ID": 40,
+        "Wear": 0.032826737
+      },
+      {
+        "Item Name": "SSG 08",
+        "Paint Kit": 0,
+        "Paint Kit Name": "",
+        "Seed": 883,
+        "Weapon ID": 40,
+        "Wear": 0.018890876
+      },
+      {
+        "Item Name": "SSG 08",
+        "Paint Kit": 361,
+        "Paint Kit Name": "Abyss",
+        "Seed": 253,
+        "Weapon ID": 40,
+        "Wear": 0.06533409
+      },
+      {
+        "Item Name": "SSG 08",
+        "Paint Kit": 253,
+        "Paint Kit Name": "Acid Fade",
+        "Seed": 248,
+        "Weapon ID": 40,
+        "Wear": 0.000948933
+      },
+      {
+        "Item Name": "SSG 08",
+        "Paint Kit": 503,
+        "Paint Kit Name": "Big Iron",
+        "Seed": 604,
+        "Weapon ID": 40,
+        "Wear": 0.038795233
+      },
+      {
+        "Item Name": "SSG 08",
+        "Paint Kit": 222,
+        "Paint Kit Name": "Blood in the Water",
+        "Seed": 291,
+        "Weapon ID": 40,
+        "Wear": 0.06422197
+      },
+      {
+        "Item Name": "SSG 08",
+        "Paint Kit": 899,
+        "Paint Kit Name": "Bloodshot",
+        "Seed": 323,
+        "Weapon ID": 40,
+        "Wear": 0.17190857
+      },
+      {
+        "Item Name": "SSG 08",
+        "Paint Kit": 96,
+        "Paint Kit Name": "Blue Spruce",
+        "Seed": 486,
+        "Weapon ID": 40,
+        "Wear": 0.082992435
+      },
+      {
+        "Item Name": "SSG 08",
+        "Paint Kit": 70,
+        "Paint Kit Name": "Carbon Fiber",
+        "Seed": 507,
+        "Weapon ID": 40,
+        "Wear": 0.008176609
+      },
+      {
+        "Item Name": "SSG 08",
+        "Paint Kit": 60,
+        "Paint Kit Name": "Dark Water",
+        "Seed": 135,
+        "Weapon ID": 40,
+        "Wear": 0.10458238
+      },
+      {
+        "Item Name": "SSG 08",
+        "Paint Kit": 1052,
+        "Paint Kit Name": "Death Strike",
+        "Seed": 344,
+        "Weapon ID": 40,
+        "Wear": 0.037945513
+      },
+      {
+        "Item Name": "SSG 08",
+        "Paint Kit": 670,
+        "Paint Kit Name": "Death's Head",
+        "Seed": 662,
+        "Weapon ID": 40,
+        "Wear": 0.03510182
+      },
+      {
+        "Item Name": "SSG 08",
+        "Paint Kit": 319,
+        "Paint Kit Name": "Detour",
+        "Seed": 7,
+        "Weapon ID": 40,
+        "Wear": 0.0049322597
+      },
+      {
+        "Item Name": "SSG 08",
+        "Paint Kit": 624,
+        "Paint Kit Name": "Dragonfire",
+        "Seed": 786,
+        "Weapon ID": 40,
+        "Wear": 0.018226992
+      },
+      {
+        "Item Name": "SSG 08",
+        "Paint Kit": 956,
+        "Paint Kit Name": "Fever Dream",
+        "Seed": 968,
+        "Weapon ID": 40,
+        "Wear": 0.024699224
+      },
+      {
+        "Item Name": "SSG 08",
+        "Paint Kit": 554,
+        "Paint Kit Name": "Ghost Crusader",
+        "Seed": 97,
+        "Weapon ID": 40,
+        "Wear": 0.047493126
+      },
+      {
+        "Item Name": "SSG 08",
+        "Paint Kit": 751,
+        "Paint Kit Name": "Hand Brake",
+        "Seed": 960,
+        "Weapon ID": 40,
+        "Wear": 0.065774225
+      },
+      {
+        "Item Name": "SSG 08",
+        "Paint Kit": 147,
+        "Paint Kit Name": "Jungle Dashed",
+        "Seed": 559,
+        "Weapon ID": 40,
+        "Wear": 0.06731986
+      },
+      {
+        "Item Name": "SSG 08",
+        "Paint Kit": 26,
+        "Paint Kit Name": "Lichen Dashed",
+        "Seed": 855,
+        "Weapon ID": 40,
+        "Wear": 0.09815723
+      },
+      {
+        "Item Name": "SSG 08",
+        "Paint Kit": 967,
+        "Paint Kit Name": "Mainframe 001",
+        "Seed": 248,
+        "Weapon ID": 40,
+        "Wear": 0.0033799615
+      },
+      {
+        "Item Name": "SSG 08",
+        "Paint Kit": 200,
+        "Paint Kit Name": "Mayan Dreams",
+        "Seed": 850,
+        "Weapon ID": 40,
+        "Wear": 0.08971315
+      },
+      {
+        "Item Name": "SSG 08",
+        "Paint Kit": 538,
+        "Paint Kit Name": "Necropos",
+        "Seed": 230,
+        "Weapon ID": 40,
+        "Wear": 0.03866479
+      },
+      {
+        "Item Name": "SSG 08",
+        "Paint Kit": 743,
+        "Paint Kit Name": "Orange Filigree",
+        "Seed": 400,
+        "Weapon ID": 40,
+        "Wear": 0.00016384402
+      },
+      {
+        "Item Name": "SSG 08",
+        "Paint Kit": 989,
+        "Paint Kit Name": "Parallax",
+        "Seed": 754,
+        "Weapon ID": 40,
+        "Wear": 0.059484288
+      },
+      {
+        "Item Name": "SSG 08",
+        "Paint Kit": 935,
+        "Paint Kit Name": "Prey",
+        "Seed": 603,
+        "Weapon ID": 40,
+        "Wear": 0.030928602
+      },
+      {
+        "Item Name": "SSG 08",
+        "Paint Kit": 762,
+        "Paint Kit Name": "Red Stone",
+        "Seed": 466,
+        "Weapon ID": 40,
+        "Wear": 0.07812383
+      },
+      {
+        "Item Name": "SSG 08",
+        "Paint Kit": 99,
+        "Paint Kit Name": "Sand Dune",
+        "Seed": 102,
+        "Weapon ID": 40,
+        "Wear": 0.09632951
+      },
+      {
+        "Item Name": "SSG 08",
+        "Paint Kit": 868,
+        "Paint Kit Name": "Sea Calico",
+        "Seed": 669,
+        "Weapon ID": 40,
+        "Wear": 0.008495632
+      },
+      {
+        "Item Name": "SSG 08",
+        "Paint Kit": 304,
+        "Paint Kit Name": "Slashed",
+        "Seed": 31,
+        "Weapon ID": 40,
+        "Wear": 0.17361829
+      },
+      {
+        "Item Name": "SSG 08",
+        "Paint Kit": 1060,
+        "Paint Kit Name": "Spring Twilly",
+        "Seed": 873,
+        "Weapon ID": 40,
+        "Wear": 0.01526813
+      },
+      {
+        "Item Name": "SSG 08",
+        "Paint Kit": 996,
+        "Paint Kit Name": "Threat Detected",
+        "Seed": 3,
+        "Weapon ID": 40,
+        "Wear": 0.018321324
+      },
+      {
+        "Item Name": "SSG 08",
+        "Paint Kit": 233,
+        "Paint Kit Name": "Tropical Storm",
+        "Seed": 942,
+        "Weapon ID": 40,
+        "Wear": 0.08033437
+      },
+      {
+        "Item Name": "SSG 08",
+        "Paint Kit": 1101,
+        "Paint Kit Name": "Turbo Peek",
+        "Seed": 511,
+        "Weapon ID": 40,
+        "Wear": 0.01595328
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 819,
+        "Paint Kit Name": "Desert Hydra",
+        "Seed": 497,
+        "Weapon ID": 9,
+        "Wear": 0.035552137
+      },
+      {
+        "Equipped": [
+          "CT",
+          "TT"
+        ],
+        "Equipped Slot": 6,
+        "Item Name": "Desert Eagle",
+        "Paint Kit": 711,
+        "Paint Kit Name": "Code Red",
+        "Seed": 530,
+        "Weapon ID": 1,
+        "Wear": 0.01178363
+      },
+      {
+        "Item Name": "Desert Eagle",
+        "Paint Kit": 1006,
+        "Paint Kit Name": "Night Heist",
+        "Seed": 18,
+        "Weapon ID": 1,
+        "Wear": 0.04424391
+      },
+      {
+        "Item Name": "Desert Eagle",
+        "Paint Kit": 347,
+        "Paint Kit Name": "Pilot",
+        "Seed": 374,
+        "Weapon ID": 1,
+        "Wear": 0.036731385
+      },
+      {
+        "Item Name": "Desert Eagle",
+        "Paint Kit": 962,
+        "Paint Kit Name": "Printstream",
+        "Seed": 103,
+        "Weapon ID": 1,
+        "Wear": 0.039836578
+      },
+      {
+        "Item Name": "Desert Eagle",
+        "Paint Kit": 1056,
+        "Paint Kit Name": "Sputnik",
+        "Seed": 89,
+        "Weapon ID": 1,
+        "Wear": 0.03225041
+      },
+      {
+        "Item Name": "Desert Eagle",
+        "Paint Kit": 470,
+        "Paint Kit Name": "Sunset Storm 弐",
+        "Seed": 782,
+        "Weapon ID": 1,
+        "Wear": 0.016429115
+      },
+      {
+        "Item Name": "Desert Eagle",
+        "Paint Kit": 469,
+        "Paint Kit Name": "Sunset Storm 壱",
+        "Seed": 435,
+        "Weapon ID": 1,
+        "Wear": 0.007777525
+      },
+      {
+        "Item Name": "Desert Eagle",
+        "Paint Kit": 992,
+        "Paint Kit Name": "The Bronze",
+        "Seed": 769,
+        "Weapon ID": 1,
+        "Wear": 0.00054391025
+      },
+      {
+        "Item Name": "Desert Eagle",
+        "Paint Kit": 1050,
+        "Paint Kit Name": "Trigger Discipline",
+        "Seed": 353,
+        "Weapon ID": 1,
+        "Wear": 0.0021217205
+      },
+      {
+        "Item Name": "M4A4",
+        "Paint Kit": 0,
+        "Paint Kit Name": "",
+        "Seed": 158,
+        "Weapon ID": 16,
+        "Wear": 0.04835422
+      },
+      {
+        "Item Name": "M4A4",
+        "Paint Kit": 255,
+        "Paint Kit Name": "Asiimov",
+        "Seed": 98,
+        "Weapon ID": 16,
+        "Wear": 0.23203415
+      },
+      {
+        "Item Name": "M4A4",
+        "Paint Kit": 155,
+        "Paint Kit Name": "Bullet Rain",
+        "Seed": 419,
+        "Weapon ID": 16,
+        "Wear": 0.026024159
+      },
+      {
+        "Item Name": "M4A4",
+        "Paint Kit": 632,
+        "Paint Kit Name": "Buzz Kill",
+        "Seed": 455,
+        "Weapon ID": 16,
+        "Wear": 0.0112053035
+      },
+      {
+        "Item Name": "M4A4",
+        "Paint Kit": 793,
+        "Paint Kit Name": "Converter",
+        "Seed": 290,
+        "Weapon ID": 16,
+        "Wear": 0.00080980774
+      },
+      {
+        "Item Name": "M4A4",
+        "Paint Kit": 985,
+        "Paint Kit Name": "Cyber Security",
+        "Seed": 407,
+        "Weapon ID": 16,
+        "Wear": 0.015582951
+      },
+      {
+        "Item Name": "M4A4",
+        "Paint Kit": 730,
+        "Paint Kit Name": "Dark Blossom",
+        "Seed": 747,
+        "Weapon ID": 16,
+        "Wear": 0.015212728
+      },
+      {
+        "Item Name": "M4A4",
+        "Paint Kit": 471,
+        "Paint Kit Name": "Daybreak",
+        "Seed": 72,
+        "Weapon ID": 16,
+        "Wear": 0.036659304
+      },
+      {
+        "Item Name": "M4A4",
+        "Paint Kit": 8,
+        "Paint Kit Name": "Desert Storm",
+        "Seed": 90,
+        "Weapon ID": 16,
+        "Wear": 0.07998666
+      },
+      {
+        "Item Name": "M4A4",
+        "Paint Kit": 336,
+        "Paint Kit Name": "Desert-Strike",
+        "Seed": 628,
+        "Weapon ID": 16,
+        "Wear": 0.016926192
+      },
+      {
+        "Item Name": "M4A4",
+        "Paint Kit": 588,
+        "Paint Kit Name": "Desolate Space",
+        "Seed": 657,
+        "Weapon ID": 16,
+        "Wear": 0.06945495
+      },
+      {
+        "Item Name": "M4A4",
+        "Paint Kit": 480,
+        "Paint Kit Name": "Evil Daimyo",
+        "Seed": 861,
+        "Weapon ID": 16,
+        "Wear": 0.0057928828
+      },
+      {
+        "Item Name": "M4A4",
+        "Paint Kit": 176,
+        "Paint Kit Name": "Faded Zebra",
+        "Seed": 309,
+        "Weapon ID": 16,
+        "Wear": 0.060178142
+      },
+      {
+        "Item Name": "M4A4",
+        "Paint Kit": 993,
+        "Paint Kit Name": "Global Offensive",
+        "Seed": 320,
+        "Weapon ID": 16,
+        "Wear": 0.006536592
+      },
+      {
+        "Item Name": "M4A4",
+        "Paint Kit": 384,
+        "Paint Kit Name": "Griffin",
+        "Seed": 175,
+        "Weapon ID": 16,
+        "Wear": 0.020474724
+      },
+      {
+        "Item Name": "M4A4",
+        "Paint Kit": 664,
+        "Paint Kit Name": "Hellfire",
+        "Seed": 182,
+        "Weapon ID": 16,
+        "Wear": 0.020100314
+      },
+      {
+        "Equipped": [
+          "CT"
+        ],
+        "Equipped Slot": 15,
+        "Item Name": "M4A4",
+        "Paint Kit": 309,
+        "Paint Kit Name": "Howl",
+        "Seed": 792,
+        "Weapon ID": 16,
+        "Wear": 0.02648746
+      },
+      {
+        "Item Name": "M4A4",
+        "Paint Kit": 1041,
+        "Paint Kit Name": "In Living Color",
+        "Seed": 996,
+        "Weapon ID": 16,
+        "Wear": 0.050496083
+      },
+      {
+        "Item Name": "M4A4",
+        "Paint Kit": 16,
+        "Paint Kit Name": "Jungle Tiger",
+        "Seed": 157,
+        "Weapon ID": 16,
+        "Wear": 0.06622548
+      },
+      {
+        "Item Name": "M4A4",
+        "Paint Kit": 811,
+        "Paint Kit Name": "Magnesium",
+        "Seed": 343,
+        "Weapon ID": 16,
+        "Wear": 0.04592091
+      },
+      {
+        "Item Name": "M4A4",
+        "Paint Kit": 780,
+        "Paint Kit Name": "Mainframe",
+        "Seed": 283,
+        "Weapon ID": 16,
+        "Wear": 0.022239134
+      },
+      {
+        "Item Name": "M4A4",
+        "Paint Kit": 164,
+        "Paint Kit Name": "Modern Hunter",
+        "Seed": 238,
+        "Weapon ID": 16,
+        "Wear": 0.08189862
+      },
+      {
+        "Item Name": "M4A4",
+        "Paint Kit": 695,
+        "Paint Kit Name": "Neo-Noir",
+        "Seed": 467,
+        "Weapon ID": 16,
+        "Wear": 0.04562528
+      },
+      {
+        "Item Name": "M4A4",
+        "Paint Kit": 1149,
+        "Paint Kit Name": "Poly Mag",
+        "Seed": 663,
+        "Weapon ID": 16,
+        "Wear": 0.020128202
+      },
+      {
+        "Item Name": "M4A4",
+        "Paint Kit": 449,
+        "Paint Kit Name": "Poseidon",
+        "Seed": 142,
+        "Weapon ID": 16,
+        "Wear": 0.017903462
+      },
+      {
+        "Item Name": "M4A4",
+        "Paint Kit": 167,
+        "Paint Kit Name": "Radiation Hazard",
+        "Seed": 265,
+        "Weapon ID": 16,
+        "Wear": 0.06486071
+      },
+      {
+        "Item Name": "M4A4",
+        "Paint Kit": 926,
+        "Paint Kit Name": "Red DDPAT",
+        "Seed": 737,
+        "Weapon ID": 16,
+        "Wear": 0.0059086666
+      },
+      {
+        "Item Name": "M4A4",
+        "Paint Kit": 512,
+        "Paint Kit Name": "Royal Paladin",
+        "Seed": 728,
+        "Weapon ID": 16,
+        "Wear": 0.024782902
+      },
+      {
+        "Item Name": "M4A4",
+        "Paint Kit": 1097,
+        "Paint Kit Name": "Spider Lily",
+        "Seed": 776,
+        "Weapon ID": 16,
+        "Wear": 0.045934822
+      },
+      {
+        "Item Name": "M4A4",
+        "Paint Kit": 533,
+        "Paint Kit Name": "The Battlestar",
+        "Seed": 157,
+        "Weapon ID": 16,
+        "Wear": 0.028023174
+      },
+      {
+        "Item Name": "M4A4",
+        "Paint Kit": 1063,
+        "Paint Kit Name": "The Coalition",
+        "Seed": 639,
+        "Weapon ID": 16,
+        "Wear": 0.04531009
+      },
+      {
+        "Item Name": "M4A4",
+        "Paint Kit": 844,
+        "Paint Kit Name": "The Emperor",
+        "Seed": 212,
+        "Weapon ID": 16,
+        "Wear": 0.020048132
+      },
+      {
+        "Item Name": "M4A4",
+        "Paint Kit": 971,
+        "Paint Kit Name": "Tooth Fairy",
+        "Seed": 573,
+        "Weapon ID": 16,
+        "Wear": 0.044660352
+      },
+      {
+        "Item Name": "M4A4",
+        "Paint Kit": 101,
+        "Paint Kit Name": "Tornado",
+        "Seed": 110,
+        "Weapon ID": 16,
+        "Wear": 0.09096031
+      },
+      {
+        "Item Name": "M4A4",
+        "Paint Kit": 17,
+        "Paint Kit Name": "Urban DDPAT",
+        "Seed": 572,
+        "Weapon ID": 16,
+        "Wear": 0.0638899
+      },
+      {
+        "Item Name": "M4A4",
+        "Paint Kit": 215,
+        "Paint Kit Name": "X-Ray",
+        "Seed": 88,
+        "Weapon ID": 16,
+        "Wear": 0.018786024
+      },
+      {
+        "Item Name": "M4A4",
+        "Paint Kit": 187,
+        "Paint Kit Name": "Zirka",
+        "Seed": 543,
+        "Weapon ID": 16,
+        "Wear": 0.066287644
+      },
+      {
+        "Item Name": "M4A4",
+        "Paint Kit": 400,
+        "Paint Kit Name": "龍王 (Dragon King)",
+        "Seed": 46,
+        "Weapon ID": 16,
+        "Wear": 0.019634131
+      },
+      {
+        "Graffiti ID": 4639,
+        "Item Name": "Sealed Graffiti",
+        "Weapon ID": 1348
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 4665,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 4666,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 0,
+        "Paint Kit Name": "",
+        "Seed": 719,
+        "Weapon ID": 9,
+        "Wear": 0.042557396
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 788,
+        "Paint Kit Name": "Acheron",
+        "Seed": 804,
+        "Weapon ID": 9,
+        "Wear": 0.020220103
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 279,
+        "Paint Kit Name": "Asiimov",
+        "Seed": 780,
+        "Weapon ID": 9,
+        "Wear": 0.19831389
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 838,
+        "Paint Kit Name": "Atheris",
+        "Seed": 191,
+        "Weapon ID": 9,
+        "Wear": 0.017599132
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 174,
+        "Paint Kit Name": "BOOM",
+        "Seed": 770,
+        "Weapon ID": 9,
+        "Wear": 0.07083741
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 943,
+        "Paint Kit Name": "Capillary",
+        "Seed": 444,
+        "Weapon ID": 9,
+        "Wear": 0.09411284
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 1144,
+        "Paint Kit Name": "Chromatic Aberration",
+        "Seed": 475,
+        "Weapon ID": 9,
+        "Wear": 0.017737273
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 887,
+        "Paint Kit Name": "Containment Breach",
+        "Seed": 541,
+        "Weapon ID": 9,
+        "Wear": 0.042971734
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 181,
+        "Paint Kit Name": "Corticera",
+        "Seed": 469,
+        "Weapon ID": 9,
+        "Wear": 0.06885576
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 819,
+        "Paint Kit Name": "Desert Hydra",
+        "Seed": 841,
+        "Weapon ID": 9,
+        "Wear": 0.01880803
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 344,
+        "Paint Kit Name": "Dragon Lore",
+        "Seed": 637,
+        "Weapon ID": 9,
+        "Wear": 0.037597287
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 227,
+        "Paint Kit Name": "Electric Hive",
+        "Seed": 636,
+        "Weapon ID": 9,
+        "Wear": 0.027559793
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 525,
+        "Paint Kit Name": "Elite Build",
+        "Seed": 84,
+        "Weapon ID": 9,
+        "Wear": 0.054828346
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 975,
+        "Paint Kit Name": "Exoskeleton",
+        "Seed": 787,
+        "Weapon ID": 9,
+        "Wear": 0.051903967
+      },
+      {
+        "Equipped": [
+          "TT"
+        ],
+        "Equipped Slot": 18,
+        "Item Name": "AWP",
+        "Paint Kit": 1026,
+        "Paint Kit Name": "Fade",
+        "Seed": 528,
+        "Weapon ID": 9,
+        "Wear": 0.0013792358
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 640,
+        "Paint Kit Name": "Fever Dream",
+        "Seed": 363,
+        "Weapon ID": 9,
+        "Wear": 0.036251105
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 212,
+        "Paint Kit Name": "Graphite",
+        "Seed": 216,
+        "Weapon ID": 9,
+        "Wear": 0.003627841
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 756,
+        "Paint Kit Name": "Gungnir",
+        "Seed": 761,
+        "Weapon ID": 9,
+        "Wear": 0.015201352
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 475,
+        "Paint Kit Name": "Hyper Beast",
+        "Seed": 327,
+        "Weapon ID": 9,
+        "Wear": 0.0038123867
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 395,
+        "Paint Kit Name": "Man-o'-war",
+        "Seed": 882,
+        "Weapon ID": 9,
+        "Wear": 0.10006031
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 446,
+        "Paint Kit Name": "Medusa",
+        "Seed": 197,
+        "Weapon ID": 9,
+        "Wear": 0.041256674
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 691,
+        "Paint Kit Name": "Mortis",
+        "Seed": 73,
+        "Weapon ID": 9,
+        "Wear": 0.037817314
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 803,
+        "Paint Kit Name": "Neo-Noir",
+        "Seed": 946,
+        "Weapon ID": 9,
+        "Wear": 0.013845149
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 662,
+        "Paint Kit Name": "Oni Taiji",
+        "Seed": 269,
+        "Weapon ID": 9,
+        "Wear": 0.018788913
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 718,
+        "Paint Kit Name": "PAW",
+        "Seed": 217,
+        "Weapon ID": 9,
+        "Wear": 0.006940568
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 584,
+        "Paint Kit Name": "Phobos",
+        "Seed": 238,
+        "Weapon ID": 9,
+        "Wear": 0.0017880887
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 84,
+        "Paint Kit Name": "Pink DDPAT",
+        "Seed": 955,
+        "Weapon ID": 9,
+        "Wear": 0.11138496
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 251,
+        "Paint Kit Name": "Pit Viper",
+        "Seed": 885,
+        "Weapon ID": 9,
+        "Wear": 0.08256212
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 1058,
+        "Paint Kit Name": "POP AWP",
+        "Seed": 764,
+        "Weapon ID": 9,
+        "Wear": 0.029052082
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 259,
+        "Paint Kit Name": "Redline",
+        "Seed": 634,
+        "Weapon ID": 9,
+        "Wear": 0.10315073
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 72,
+        "Paint Kit Name": "Safari Mesh",
+        "Seed": 48,
+        "Weapon ID": 9,
+        "Wear": 0.07618487
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 1029,
+        "Paint Kit Name": "Silk Tiger",
+        "Seed": 194,
+        "Weapon ID": 9,
+        "Wear": 0.020062342
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 30,
+        "Paint Kit Name": "Snake Camo",
+        "Seed": 684,
+        "Weapon ID": 9,
+        "Wear": 0.101745024
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 451,
+        "Paint Kit Name": "Sun in Leo",
+        "Seed": 216,
+        "Weapon ID": 9,
+        "Wear": 0.008490937
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 736,
+        "Paint Kit Name": "The Prince",
+        "Seed": 635,
+        "Weapon ID": 9,
+        "Wear": 0.006851626
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 917,
+        "Paint Kit Name": "Wildfire",
+        "Seed": 928,
+        "Weapon ID": 9,
+        "Wear": 0.04258482
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 424,
+        "Paint Kit Name": "Worm God",
+        "Seed": 18,
+        "Weapon ID": 9,
+        "Wear": 0.026433118
+      },
+      {
+        "Graffiti ID": 4633,
+        "Item Name": "Sealed Graffiti",
+        "Weapon ID": 1348
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 3968,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 4833,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 4653,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 4654,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 111,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 4835,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 4834,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 989,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 999,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 4836,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 51,
+        "Paint Kit Name": "Lightning Strike",
+        "Seed": 799,
+        "Stickers": [
+          {
+            "Slot": 0,
+            "Sticker ID": 370
+          }
+        ],
+        "Weapon ID": 9,
+        "Wear": 0.0032850625
+      },
+      {
+        "Item Name": "AK-47",
+        "Paint Kit": 0,
+        "Paint Kit Name": "",
+        "Seed": 967,
+        "Weapon ID": 7,
+        "Wear": 0.030879484
+      },
+      {
+        "Item Name": "AK-47",
+        "Paint Kit": 474,
+        "Paint Kit Name": "Aquamarine Revenge",
+        "Seed": 603,
+        "Weapon ID": 7,
+        "Wear": 0.032854673
+      },
+      {
+        "Equipped": [
+          "TT"
+        ],
+        "Equipped Slot": 15,
+        "Item Name": "AK-47",
+        "Paint Kit": 801,
+        "Paint Kit Name": "Asiimov",
+        "Seed": 918,
+        "Weapon ID": 7,
+        "Wear": 0.06911044
+      },
+      {
+        "Item Name": "AK-47",
+        "Paint Kit": 745,
+        "Paint Kit Name": "Baroque Purple",
+        "Seed": 224,
+        "Weapon ID": 7,
+        "Wear": 0.04411664
+      },
+      {
+        "Item Name": "AK-47",
+        "Paint Kit": 172,
+        "Paint Kit Name": "Black Laminate",
+        "Seed": 659,
+        "Weapon ID": 7,
+        "Wear": 0.08878486
+      },
+      {
+        "Item Name": "AK-47",
+        "Paint Kit": 639,
+        "Paint Kit Name": "Bloodsport",
+        "Seed": 676,
+        "Weapon ID": 7,
+        "Wear": 0.020849582
+      },
+      {
+        "Item Name": "AK-47",
+        "Paint Kit": 226,
+        "Paint Kit Name": "Blue Laminate",
+        "Seed": 900,
+        "Weapon ID": 7,
+        "Wear": 0.033185083
+      },
+      {
+        "Item Name": "AK-47",
+        "Paint Kit": 394,
+        "Paint Kit Name": "Cartel",
+        "Seed": 989,
+        "Weapon ID": 7,
+        "Wear": 0.034472756
+      },
+      {
+        "Item Name": "AK-47",
+        "Paint Kit": 44,
+        "Paint Kit Name": "Case Hardened",
+        "Seed": 201,
+        "Weapon ID": 7,
+        "Wear": 0.045796975
+      },
+      {
+        "Item Name": "AK-47",
+        "Paint Kit": 422,
+        "Paint Kit Name": "Elite Build",
+        "Seed": 587,
+        "Weapon ID": 7,
+        "Wear": 0.04478269
+      },
+      {
+        "Item Name": "AK-47",
+        "Paint Kit": 300,
+        "Paint Kit Name": "Emerald Pinstripe",
+        "Seed": 776,
+        "Weapon ID": 7,
+        "Wear": 0.06137257
+      },
+      {
+        "Item Name": "AK-47",
+        "Paint Kit": 180,
+        "Paint Kit Name": "Fire Serpent",
+        "Seed": 406,
+        "Weapon ID": 7,
+        "Wear": 0.09326061
+      },
+      {
+        "Item Name": "AK-47",
+        "Paint Kit": 341,
+        "Paint Kit Name": "First Class",
+        "Seed": 123,
+        "Weapon ID": 7,
+        "Wear": 0.010628647
+      },
+      {
+        "Item Name": "AK-47",
+        "Paint Kit": 490,
+        "Paint Kit Name": "Frontside Misty",
+        "Seed": 796,
+        "Weapon ID": 7,
+        "Wear": 0.02986224
+      },
+      {
+        "Item Name": "AK-47",
+        "Paint Kit": 524,
+        "Paint Kit Name": "Fuel Injector",
+        "Seed": 346,
+        "Weapon ID": 7,
+        "Wear": 0.018434962
+      },
+      {
+        "Item Name": "AK-47",
+        "Paint Kit": 921,
+        "Paint Kit Name": "Gold Arabesque",
+        "Seed": 443,
+        "Weapon ID": 7,
+        "Wear": 0.010808111
+      },
+      {
+        "Item Name": "AK-47",
+        "Paint Kit": 1070,
+        "Paint Kit Name": "Green Laminate",
+        "Seed": 219,
+        "Weapon ID": 7,
+        "Wear": 0.02390615
+      },
+      {
+        "Item Name": "AK-47",
+        "Paint Kit": 456,
+        "Paint Kit Name": "Hydroponic",
+        "Seed": 145,
+        "Weapon ID": 7,
+        "Wear": 0.027325718
+      },
+      {
+        "Item Name": "AK-47",
+        "Paint Kit": 1143,
+        "Paint Kit Name": "Ice Coaled",
+        "Seed": 410,
+        "Weapon ID": 7,
+        "Wear": 0.008095437
+      },
+      {
+        "Item Name": "AK-47",
+        "Paint Kit": 316,
+        "Paint Kit Name": "Jaguar",
+        "Seed": 595,
+        "Weapon ID": 7,
+        "Wear": 0.059925783
+      },
+      {
+        "Item Name": "AK-47",
+        "Paint Kit": 340,
+        "Paint Kit Name": "Jet Set",
+        "Seed": 856,
+        "Weapon ID": 7,
+        "Wear": 0.03307192
+      },
+      {
+        "Item Name": "AK-47",
+        "Paint Kit": 122,
+        "Paint Kit Name": "Jungle Spray",
+        "Seed": 99,
+        "Weapon ID": 7,
+        "Wear": 0.06780316
+      },
+      {
+        "Item Name": "AK-47",
+        "Paint Kit": 1087,
+        "Paint Kit Name": "Leet Museo",
+        "Seed": 482,
+        "Weapon ID": 7,
+        "Wear": 0.02009187
+      },
+      {
+        "Item Name": "AK-47",
+        "Paint Kit": 959,
+        "Paint Kit Name": "Legion of Anubis",
+        "Seed": 611,
+        "Weapon ID": 7,
+        "Wear": 0.031025508
+      },
+      {
+        "Item Name": "AK-47",
+        "Paint Kit": 600,
+        "Paint Kit Name": "Neon Revolution",
+        "Seed": 825,
+        "Weapon ID": 7,
+        "Wear": 0.0017714378
+      },
+      {
+        "Item Name": "AK-47",
+        "Paint Kit": 707,
+        "Paint Kit Name": "Neon Rider",
+        "Seed": 983,
+        "Weapon ID": 7,
+        "Wear": 0.020561617
+      },
+      {
+        "Item Name": "AK-47",
+        "Paint Kit": 1141,
+        "Paint Kit Name": "Nightwish",
+        "Seed": 232,
+        "Weapon ID": 7,
+        "Wear": 0.043895703
+      },
+      {
+        "Item Name": "AK-47",
+        "Paint Kit": 656,
+        "Paint Kit Name": "Orbit Mk01",
+        "Seed": 155,
+        "Weapon ID": 7,
+        "Wear": 0.010702065
+      },
+      {
+        "Item Name": "AK-47",
+        "Paint Kit": 1018,
+        "Paint Kit Name": "Panthera onca",
+        "Seed": 590,
+        "Weapon ID": 7,
+        "Wear": 0.051981166
+      },
+      {
+        "Item Name": "AK-47",
+        "Paint Kit": 941,
+        "Paint Kit Name": "Phantom Disruptor",
+        "Seed": 81,
+        "Weapon ID": 7,
+        "Wear": 0.033517916
+      },
+      {
+        "Item Name": "AK-47",
+        "Paint Kit": 506,
+        "Paint Kit Name": "Point Disarray",
+        "Seed": 573,
+        "Weapon ID": 7,
+        "Wear": 0.012601036
+      },
+      {
+        "Item Name": "AK-47",
+        "Paint Kit": 170,
+        "Paint Kit Name": "Predator",
+        "Seed": 88,
+        "Weapon ID": 7,
+        "Wear": 0.0810387
+      },
+      {
+        "Item Name": "AK-47",
+        "Paint Kit": 885,
+        "Paint Kit Name": "Rat Rod",
+        "Seed": 986,
+        "Weapon ID": 7,
+        "Wear": 0.05974696
+      },
+      {
+        "Item Name": "AK-47",
+        "Paint Kit": 14,
+        "Paint Kit Name": "Red Laminate",
+        "Seed": 864,
+        "Weapon ID": 7,
+        "Wear": 0.10515645
+      },
+      {
+        "Item Name": "AK-47",
+        "Paint Kit": 282,
+        "Paint Kit Name": "Redline",
+        "Seed": 595,
+        "Weapon ID": 7,
+        "Wear": 0.12387058
+      },
+      {
+        "Item Name": "AK-47",
+        "Paint Kit": 72,
+        "Paint Kit Name": "Safari Mesh",
+        "Seed": 861,
+        "Weapon ID": 7,
+        "Wear": 0.10507946
+      },
+      {
+        "Item Name": "AK-47",
+        "Paint Kit": 795,
+        "Paint Kit Name": "Safety Net",
+        "Seed": 812,
+        "Weapon ID": 7,
+        "Wear": 0.04193578
+      },
+      {
+        "Item Name": "AK-47",
+        "Paint Kit": 1035,
+        "Paint Kit Name": "Slate",
+        "Seed": 929,
+        "Weapon ID": 7,
+        "Wear": 0.04791315
+      },
+      {
+        "Item Name": "AK-47",
+        "Paint Kit": 675,
+        "Paint Kit Name": "The Empress",
+        "Seed": 294,
+        "Weapon ID": 7,
+        "Wear": 0.046097755
+      },
+      {
+        "Item Name": "AK-47",
+        "Paint Kit": 836,
+        "Paint Kit Name": "Uncharted",
+        "Seed": 825,
+        "Weapon ID": 7,
+        "Wear": 0.039980374
+      },
+      {
+        "Item Name": "AK-47",
+        "Paint Kit": 302,
+        "Paint Kit Name": "Vulcan",
+        "Seed": 450,
+        "Weapon ID": 7,
+        "Wear": 0.06271921
+      },
+      {
+        "Item Name": "AK-47",
+        "Paint Kit": 380,
+        "Paint Kit Name": "Wasteland Rebel",
+        "Seed": 557,
+        "Weapon ID": 7,
+        "Wear": 0.06735048
+      },
+      {
+        "Item Name": "AK-47",
+        "Paint Kit": 724,
+        "Paint Kit Name": "Wild Lotus",
+        "Seed": 435,
+        "Weapon ID": 7,
+        "Wear": 0.05962127
+      },
+      {
+        "Item Name": "AK-47",
+        "Paint Kit": 1004,
+        "Paint Kit Name": "X-Ray",
+        "Seed": 324,
+        "Weapon ID": 7,
+        "Wear": 0.04489948
+      },
+      {
+        "Item Name": "AUG",
+        "Paint Kit": 455,
+        "Paint Kit Name": "Akihabara Accept",
+        "Seed": 98,
+        "Weapon ID": 8,
+        "Wear": 0.030047052
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 30,
+        "Paint Kit Name": "Snake Camo",
+        "Seed": 57,
+        "Weapon ID": 9,
+        "Wear": 0.07371695
+      },
+      {
+        "Equipped": [
+          "TT"
+        ],
+        "Equipped Slot": 41,
+        "Item Name": "Bloodhound Gloves",
+        "Paint Kit": 10007,
+        "Paint Kit Name": "Snakebite",
+        "Seed": 706,
+        "Weapon ID": 5027,
+        "Wear": 0.0929299
+      },
+      {
+        "Item Name": "Bronze Krakow 2017 Pick'Em Trophy",
+        "Weapon ID": 952
+      },
+      {
+        "Item Name": "Champion at PGL Krakow 2017",
+        "Weapon ID": 948
+      },
+      {
+        "Item Name": "Driver Gloves",
+        "Paint Kit": 10041,
+        "Paint Kit Name": "King Snake",
+        "Seed": 388,
+        "Weapon ID": 5031,
+        "Wear": 0.10331498
+      },
+      {
+        "Item Name": "Driver Gloves",
+        "Paint Kit": 10043,
+        "Paint Kit Name": "Overtake",
+        "Seed": 182,
+        "Weapon ID": 5031,
+        "Wear": 0.08070113
+      },
+      {
+        "Item Name": "Finalist at PGL Krakow 2017",
+        "Weapon ID": 949
+      },
+      {
+        "Item Name": "Galil AR",
+        "Paint Kit": 842,
+        "Paint Kit Name": "Akoben",
+        "Seed": 866,
+        "Weapon ID": 13,
+        "Wear": 0.05066987
+      },
+      {
+        "Item Name": "Gold Krakow 2017 Pick'Em Trophy",
+        "Weapon ID": 954
+      },
+      {
+        "Item Name": "Gold Operation Breakout Coin",
+        "Weapon ID": 1030
+      },
+      {
+        "Item Name": "Krakow 2017 Cache Souvenir Package",
+        "Tournament Player": 108076825,
+        "Tournament Stage": 2,
+        "Tournament Team 1": 31,
+        "Tournament Team 2": 6,
+        "Weapon ID": 4400
+      },
+      {
+        "Item Name": "Krakow 2017 Challengers (Holo/Foil)",
+        "Weapon ID": 4392
+      },
+      {
+        "Item Name": "Krakow 2017 Challengers Autograph Capsule",
+        "Weapon ID": 4393
+      },
+      {
+        "Item Name": "Krakow 2017 Cobblestone Souvenir Package",
+        "Tournament Player": 4515926,
+        "Tournament Stage": 2,
+        "Tournament Team 1": 59,
+        "Tournament Team 2": 33,
+        "Weapon ID": 4398
+      },
+      {
+        "Item Name": "Krakow 2017 Inferno Souvenir Package",
+        "Tournament Player": 424467,
+        "Tournament Stage": 2,
+        "Tournament Team 1": 14,
+        "Tournament Team 2": 39,
+        "Weapon ID": 4396
+      },
+      {
+        "Item Name": "Krakow 2017 Legends (Holo/Foil)",
+        "Weapon ID": 4391
+      },
+      {
+        "Item Name": "Krakow 2017 Mirage Souvenir Package",
+        "Tournament Player": 71385856,
+        "Tournament Stage": 2,
+        "Tournament Team 1": 12,
+        "Tournament Team 2": 6,
+        "Weapon ID": 4397
+      },
+      {
+        "Item Name": "Krakow 2017 Nuke Souvenir Package",
+        "Tournament Player": 460206,
+        "Tournament Stage": 2,
+        "Tournament Team 1": 70,
+        "Tournament Team 2": 31,
+        "Weapon ID": 4402
+      },
+      {
+        "Item Name": "Krakow 2017 Overpass Souvenir Package",
+        "Tournament Player": 4780624,
+        "Tournament Stage": 2,
+        "Tournament Team 1": 14,
+        "Tournament Team 2": 71,
+        "Weapon ID": 4399
+      },
+      {
+        "Item Name": "Krakow 2017 Train Souvenir Package",
+        "Tournament Player": 46200979,
+        "Tournament Stage": 8,
+        "Tournament Team 1": 63,
+        "Tournament Team 2": 60,
+        "Weapon ID": 4401
+      },
+      {
+        "Item Name": "M4A4",
+        "Paint Kit": 471,
+        "Paint Kit Name": "Daybreak",
+        "Seed": 737,
+        "Weapon ID": 16,
+        "Wear": 0.03679147
+      },
+      {
+        "Item Name": "MAC-10",
+        "Paint Kit": 1009,
+        "Paint Kit Name": "Hot Snakes",
+        "Seed": 574,
+        "Weapon ID": 17,
+        "Wear": 0.06886678
+      },
+      {
+        "Item Name": "MP7",
+        "Paint Kit": 649,
+        "Paint Kit Name": "Akoben",
+        "Seed": 179,
+        "Weapon ID": 33,
+        "Wear": 0.048337754
+      },
+      {
+        "Item Name": "MP9",
+        "Paint Kit": 549,
+        "Paint Kit Name": "Bioleak",
+        "Seed": 678,
+        "Weapon ID": 34,
+        "Wear": 0.016751045
+      },
+      {
+        "Equipped": [
+          "NOTEAM"
+        ],
+        "Equipped Slot": 54,
+        "Item Name": "Music Kit",
+        "Music ID": 56,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Operation Breakout Case Key",
+        "Purchased From Store": true,
+        "Tradable After Date": 1670482800,
+        "Weapon ID": 1309
+      },
+      {
+        "Item Name": "Operation Breakout Case Key",
+        "Purchased From Store": true,
+        "Tradable After Date": 1670482800,
+        "Weapon ID": 1310
+      },
+      {
+        "Item Name": "Operation Breakout Case Key",
+        "Purchased From Store": true,
+        "Tradable After Date": 1670482800,
+        "Weapon ID": 1311
+      },
+      {
+        "Item Name": "Operation Breakout Challenge Coin",
+        "Weapon ID": 1028
+      },
+      {
+        "Item Name": "Patch",
+        "Patch ID": 4564,
+        "Weapon ID": 4609
+      },
+      {
+        "Item Name": "PP-Bizon",
+        "Paint Kit": 13,
+        "Paint Kit Name": "Blue Streak",
+        "Seed": 84,
+        "Weapon ID": 26,
+        "Wear": 0.08441326
+      },
+      {
+        "Item Name": "PP-Bizon",
+        "Paint Kit": 1083,
+        "Paint Kit Name": "Breaker Box",
+        "Seed": 190,
+        "Weapon ID": 26,
+        "Wear": 0.0062525054
+      },
+      {
+        "Item Name": "Quarterfinalist at PGL Krakow 2017",
+        "Weapon ID": 951
+      },
+      {
+        "Item Name": "Sawed-Off",
+        "Paint Kit": 797,
+        "Paint Kit Name": "Brake Light",
+        "Seed": 899,
+        "Weapon ID": 29,
+        "Wear": 0.0029933963
+      },
+      {
+        "Item Name": "Sawed-Off",
+        "Paint Kit": 30,
+        "Paint Kit Name": "Snake Camo",
+        "Seed": 300,
+        "Weapon ID": 29,
+        "Wear": 0.11096765
+      },
+      {
+        "Item Name": "Sawed-Off",
+        "Paint Kit": 256,
+        "Paint Kit Name": "The Kraken",
+        "Seed": 476,
+        "Weapon ID": 29,
+        "Wear": 0.0027788514
+      },
+      {
+        "Item Name": "SCAR-20",
+        "Paint Kit": 518,
+        "Paint Kit Name": "Outbreak",
+        "Seed": 103,
+        "Weapon ID": 38,
+        "Wear": 0.02537257
+      },
+      {
+        "Graffiti ID": 2131,
+        "Item Name": "Sealed Graffiti",
+        "Weapon ID": 1348
+      },
+      {
+        "Graffiti ID": 2141,
+        "Item Name": "Sealed Graffiti",
+        "Weapon ID": 1348
+      },
+      {
+        "Graffiti ID": 2142,
+        "Item Name": "Sealed Graffiti",
+        "Weapon ID": 1348
+      },
+      {
+        "Graffiti ID": 2138,
+        "Item Name": "Sealed Graffiti",
+        "Weapon ID": 1348
+      },
+      {
+        "Graffiti ID": 2144,
+        "Item Name": "Sealed Graffiti",
+        "Weapon ID": 1348
+      },
+      {
+        "Graffiti ID": 2133,
+        "Item Name": "Sealed Graffiti",
+        "Weapon ID": 1348
+      },
+      {
+        "Graffiti ID": 2140,
+        "Item Name": "Sealed Graffiti",
+        "Weapon ID": 1348
+      },
+      {
+        "Graffiti ID": 2136,
+        "Item Name": "Sealed Graffiti",
+        "Weapon ID": 1348
+      },
+      {
+        "Graffiti ID": 2145,
+        "Item Name": "Sealed Graffiti",
+        "Weapon ID": 1348
+      },
+      {
+        "Graffiti ID": 2139,
+        "Item Name": "Sealed Graffiti",
+        "Weapon ID": 1348
+      },
+      {
+        "Graffiti ID": 2135,
+        "Item Name": "Sealed Graffiti",
+        "Weapon ID": 1348
+      },
+      {
+        "Graffiti ID": 2137,
+        "Item Name": "Sealed Graffiti",
+        "Weapon ID": 1348
+      },
+      {
+        "Graffiti ID": 2143,
+        "Item Name": "Sealed Graffiti",
+        "Weapon ID": 1348
+      },
+      {
+        "Graffiti ID": 2147,
+        "Item Name": "Sealed Graffiti",
+        "Weapon ID": 1348
+      },
+      {
+        "Graffiti ID": 4631,
+        "Item Name": "Sealed Graffiti",
+        "Weapon ID": 1348
+      },
+      {
+        "Graffiti ID": 2134,
+        "Item Name": "Sealed Graffiti",
+        "Weapon ID": 1348
+      },
+      {
+        "Graffiti ID": 1736,
+        "Item Name": "Sealed Graffiti",
+        "Weapon ID": 1348
+      },
+      {
+        "Graffiti ID": 2146,
+        "Item Name": "Sealed Graffiti",
+        "Weapon ID": 1348
+      },
+      {
+        "Graffiti ID": 2132,
+        "Item Name": "Sealed Graffiti",
+        "Weapon ID": 1348
+      },
+      {
+        "Item Name": "Semifinalist at PGL Krakow 2017",
+        "Weapon ID": 950
+      },
+      {
+        "Item Name": "Silver Krakow 2017 Pick'Em Trophy",
+        "Weapon ID": 953
+      },
+      {
+        "Item Name": "Silver Operation Breakout Coin",
+        "Weapon ID": 1029
+      },
+      {
+        "Item Name": "Snakebite Case",
+        "Weapon ID": 4747
+      },
+      {
+        "Item Name": "Snakebite Case Key",
+        "Purchased From Store": true,
+        "Tradable After Date": 1670482800,
+        "Weapon ID": 1389
+      },
+      {
+        "Item Name": "SSG 08",
+        "Paint Kit": 751,
+        "Paint Kit Name": "Hand Brake",
+        "Seed": 448,
+        "Weapon ID": 40,
+        "Wear": 0.057892006
+      },
+      {
+        "Item Name": "StatTrak™ Initiators Music Kit Box",
+        "Weapon ID": 4849
+      },
+      {
+        "Item Name": "StatTrak™ Masterminds Music Kit Box",
+        "Weapon ID": 4697
+      },
+      {
+        "Item Name": "StatTrak™ Radicals Box",
+        "Weapon ID": 4287
+      },
+      {
+        "Item Name": "StatTrak™ Swap Tool",
+        "Weapon ID": 1324
+      },
+      {
+        "Item Name": "StatTrak™ Tacticians Music Kit Box",
+        "Weapon ID": 4755
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2224,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2225,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2223,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2239,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2240,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2238,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 4879,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2254,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2255,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2253,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2284,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2285,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2283,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2065,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2066,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2064,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2063,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2314,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2315,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2313,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2344,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2345,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2343,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 5903,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2105,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2106,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2104,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2103,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 5,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 6,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2287,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2288,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2286,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2359,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2360,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2358,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2164,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2165,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2163,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2242,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2243,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2241,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2374,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2375,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2373,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2269,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2270,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2268,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2109,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2110,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2108,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2107,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2194,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2195,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2193,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2272,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2273,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2271,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2179,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2180,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2178,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2149,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2150,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2148,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2227,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2228,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2226,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 3186,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 3187,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 3185,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2152,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2153,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2151,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2209,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2210,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2208,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2347,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2348,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2346,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2197,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2198,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2196,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2093,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2094,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2092,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2091,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2200,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2201,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2199,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2203,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2204,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2202,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2212,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2213,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2211,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2117,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2118,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2116,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2115,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2182,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2183,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2181,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2073,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2074,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2072,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2071,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 687,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 615,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 1091,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 688,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 616,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 1092,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 686,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 614,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 1090,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2101,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2102,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2100,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2099,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2085,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2086,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2084,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2083,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2155,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2156,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2154,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2299,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2300,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2298,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2215,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2216,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2214,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 4649,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 4650,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2362,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2363,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2361,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2230,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2231,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2229,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2329,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2330,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2328,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2377,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2378,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2376,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2121,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2122,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2120,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2119,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2332,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2333,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2331,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 6483,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 6485,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 6484,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 6482,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2380,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2381,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2379,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2185,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2186,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2184,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2245,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2246,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2244,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2257,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2258,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2256,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2302,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2303,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2301,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2290,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2291,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2289,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2383,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2384,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2382,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2260,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2261,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2259,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2158,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2159,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2157,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2365,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2366,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2364,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2188,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2189,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2187,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2335,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2336,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2334,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2305,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2306,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2304,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2275,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2276,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2274,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2368,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2369,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2367,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2248,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2249,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2247,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2350,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2351,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2349,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2386,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2387,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2385,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2233,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2234,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2232,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2097,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2098,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2096,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2095,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2251,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2252,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2250,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2317,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2318,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2316,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2081,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2082,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2080,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2079,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2293,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2294,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2292,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2167,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2168,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2166,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2308,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2309,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2307,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2263,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2264,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2262,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2089,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2090,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2088,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2087,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2191,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2192,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2190,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2278,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2279,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2277,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2170,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2171,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2169,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2113,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2114,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2112,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2111,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2129,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2130,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2128,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2127,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 265,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 376,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2266,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2267,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2265,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2927,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2931,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2281,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2282,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2280,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2218,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2219,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2217,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2221,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2222,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2220,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2296,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2297,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2295,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2320,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2321,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2319,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2077,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2078,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2076,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2075,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2323,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2324,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2322,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2173,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2174,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2172,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 5264,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 114,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 5257,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2371,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2372,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2370,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2326,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2327,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2325,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2338,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2339,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2337,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2311,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2312,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2310,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2206,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2207,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2205,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2176,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2177,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2175,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2125,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2126,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2124,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2123,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2069,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2070,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2068,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2067,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2353,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2354,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2352,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2356,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2357,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2355,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2161,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2162,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2160,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2341,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2342,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2340,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2236,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2237,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2235,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "M4A1-S",
+        "Paint Kit": 0,
+        "Paint Kit Name": "",
+        "Seed": 455,
+        "Weapon ID": 60,
+        "Wear": 0.027121944
+      },
+      {
+        "Item Name": "M4A1-S",
+        "Paint Kit": 301,
+        "Paint Kit Name": "Atomic Alloy",
+        "Seed": 441,
+        "Weapon ID": 60,
+        "Wear": 0.017716903
+      },
+      {
+        "Item Name": "M4A1-S",
+        "Paint Kit": 383,
+        "Paint Kit Name": "Basilisk",
+        "Seed": 915,
+        "Weapon ID": 60,
+        "Wear": 0.0259358
+      },
+      {
+        "Item Name": "M4A1-S",
+        "Paint Kit": 217,
+        "Paint Kit Name": "Blood Tiger",
+        "Seed": 433,
+        "Weapon ID": 60,
+        "Wear": 0.004236032
+      },
+      {
+        "Item Name": "M4A1-S",
+        "Paint Kit": 1017,
+        "Paint Kit Name": "Blue Phosphor",
+        "Seed": 641,
+        "Weapon ID": 60,
+        "Wear": 0.00367425
+      },
+      {
+        "Item Name": "M4A1-S",
+        "Paint Kit": 77,
+        "Paint Kit Name": "Boreal Forest",
+        "Seed": 90,
+        "Weapon ID": 60,
+        "Wear": 0.07210451
+      },
+      {
+        "Item Name": "M4A1-S",
+        "Paint Kit": 663,
+        "Paint Kit Name": "Briefing",
+        "Seed": 707,
+        "Weapon ID": 60,
+        "Wear": 0.045410212
+      },
+      {
+        "Item Name": "M4A1-S",
+        "Paint Kit": 189,
+        "Paint Kit Name": "Bright Water",
+        "Seed": 83,
+        "Weapon ID": 60,
+        "Wear": 0.108186424
+      },
+      {
+        "Item Name": "M4A1-S",
+        "Paint Kit": 548,
+        "Paint Kit Name": "Chantico's Fire",
+        "Seed": 316,
+        "Weapon ID": 60,
+        "Wear": 0.033509932
+      },
+      {
+        "Item Name": "M4A1-S",
+        "Paint Kit": 792,
+        "Paint Kit Name": "Control Panel",
+        "Seed": 217,
+        "Weapon ID": 60,
+        "Wear": 0.054525614
+      },
+      {
+        "Item Name": "M4A1-S",
+        "Paint Kit": 360,
+        "Paint Kit Name": "Cyrex",
+        "Seed": 881,
+        "Weapon ID": 60,
+        "Wear": 0.023819434
+      },
+      {
+        "Item Name": "M4A1-S",
+        "Paint Kit": 60,
+        "Paint Kit Name": "Dark Water",
+        "Seed": 829,
+        "Weapon ID": 60,
+        "Wear": 0.10840677
+      },
+      {
+        "Item Name": "M4A1-S",
+        "Paint Kit": 644,
+        "Paint Kit Name": "Decimator",
+        "Seed": 723,
+        "Weapon ID": 60,
+        "Wear": 0.03372424
+      },
+      {
+        "Item Name": "M4A1-S",
+        "Paint Kit": 1059,
+        "Paint Kit Name": "Fizzy POP",
+        "Seed": 109,
+        "Weapon ID": 60,
+        "Wear": 0.036595486
+      },
+      {
+        "Item Name": "M4A1-S",
+        "Paint Kit": 631,
+        "Paint Kit Name": "Flashback",
+        "Seed": 92,
+        "Weapon ID": 60,
+        "Wear": 0.009325106
+      },
+      {
+        "Item Name": "M4A1-S",
+        "Paint Kit": 497,
+        "Paint Kit Name": "Golden Coil",
+        "Seed": 625,
+        "Weapon ID": 60,
+        "Wear": 0.0064715515
+      },
+      {
+        "Item Name": "M4A1-S",
+        "Paint Kit": 257,
+        "Paint Kit Name": "Guardian",
+        "Seed": 549,
+        "Weapon ID": 60,
+        "Wear": 0.01961887
+      },
+      {
+        "Item Name": "M4A1-S",
+        "Paint Kit": 445,
+        "Paint Kit Name": "Hot Rod",
+        "Seed": 760,
+        "Weapon ID": 60,
+        "Wear": 0.0004372642
+      },
+      {
+        "Item Name": "M4A1-S",
+        "Paint Kit": 430,
+        "Paint Kit Name": "Hyper Beast",
+        "Seed": 812,
+        "Weapon ID": 60,
+        "Wear": 0.046227653
+      },
+      {
+        "Item Name": "M4A1-S",
+        "Paint Kit": 440,
+        "Paint Kit Name": "Icarus Fell",
+        "Seed": 881,
+        "Weapon ID": 60,
+        "Wear": 0.0044756196
+      },
+      {
+        "Item Name": "M4A1-S",
+        "Paint Kit": 1073,
+        "Paint Kit Name": "Imminent Danger",
+        "Seed": 716,
+        "Weapon ID": 60,
+        "Wear": 0.011074176
+      },
+      {
+        "Item Name": "M4A1-S",
+        "Paint Kit": 326,
+        "Paint Kit Name": "Knight",
+        "Seed": 270,
+        "Weapon ID": 60,
+        "Wear": 0.0008975369
+      },
+      {
+        "Item Name": "M4A1-S",
+        "Paint Kit": 681,
+        "Paint Kit Name": "Leaded Glass",
+        "Seed": 207,
+        "Weapon ID": 60,
+        "Wear": 0.012815492
+      },
+      {
+        "Item Name": "M4A1-S",
+        "Paint Kit": 321,
+        "Paint Kit Name": "Master Piece",
+        "Seed": 65,
+        "Weapon ID": 60,
+        "Wear": 0.008488546
+      },
+      {
+        "Item Name": "M4A1-S",
+        "Paint Kit": 587,
+        "Paint Kit Name": "Mecha Industries",
+        "Seed": 734,
+        "Weapon ID": 60,
+        "Wear": 0.03762445
+      },
+      {
+        "Item Name": "M4A1-S",
+        "Paint Kit": 862,
+        "Paint Kit Name": "Moss Quartz",
+        "Seed": 94,
+        "Weapon ID": 60,
+        "Wear": 0.005704281
+      },
+      {
+        "Item Name": "M4A1-S",
+        "Paint Kit": 1130,
+        "Paint Kit Name": "Night Terror",
+        "Seed": 914,
+        "Weapon ID": 60,
+        "Wear": 0.037644874
+      },
+      {
+        "Item Name": "M4A1-S",
+        "Paint Kit": 714,
+        "Paint Kit Name": "Nightmare",
+        "Seed": 372,
+        "Weapon ID": 60,
+        "Wear": 0.024340848
+      },
+      {
+        "Item Name": "M4A1-S",
+        "Paint Kit": 254,
+        "Paint Kit Name": "Nitro",
+        "Seed": 321,
+        "Weapon ID": 60,
+        "Wear": 0.072551586
+      },
+      {
+        "Item Name": "M4A1-S",
+        "Paint Kit": 946,
+        "Paint Kit Name": "Player Two",
+        "Seed": 513,
+        "Weapon ID": 60,
+        "Wear": 0.042529847
+      },
+      {
+        "Item Name": "M4A1-S",
+        "Paint Kit": 984,
+        "Paint Kit Name": "Printstream",
+        "Seed": 296,
+        "Weapon ID": 60,
+        "Wear": 0.013605127
+      },
+      {
+        "Item Name": "M4A1-S",
+        "Paint Kit": 235,
+        "Paint Kit Name": "VariCamo",
+        "Seed": 288,
+        "Weapon ID": 60,
+        "Wear": 0.010440881
+      },
+      {
+        "Item Name": "M4A1-S",
+        "Paint Kit": 1001,
+        "Paint Kit Name": "Welcome to the Jungle",
+        "Seed": 773,
+        "Weapon ID": 60,
+        "Wear": 0.008479491
+      },
+      {
+        "Graffiti ID": 4638,
+        "Item Name": "Sealed Graffiti",
+        "Weapon ID": 1348
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 4663,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 4664,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Bowie Knife",
+        "Paint Kit": 0,
+        "Paint Kit Name": "",
+        "Seed": 828,
+        "Weapon ID": 514,
+        "Wear": 0.059348565
+      },
+      {
+        "Item Name": "Bowie Knife",
+        "Paint Kit": 1114,
+        "Paint Kit Name": "Autotronic",
+        "Seed": 697,
+        "Weapon ID": 514,
+        "Wear": 0.0027494796
+      },
+      {
+        "Item Name": "Bowie Knife",
+        "Paint Kit": 1109,
+        "Paint Kit Name": "Black Laminate",
+        "Seed": 497,
+        "Weapon ID": 514,
+        "Wear": 0.008588262
+      },
+      {
+        "Item Name": "Bowie Knife",
+        "Paint Kit": 42,
+        "Paint Kit Name": "Blue Steel",
+        "Seed": 685,
+        "Weapon ID": 514,
+        "Wear": 0.06489042
+      },
+      {
+        "Item Name": "Bowie Knife",
+        "Paint Kit": 77,
+        "Paint Kit Name": "Boreal Forest",
+        "Seed": 883,
+        "Weapon ID": 514,
+        "Wear": 0.08836704
+      },
+      {
+        "Item Name": "Bowie Knife",
+        "Paint Kit": 579,
+        "Paint Kit Name": "Bright Water",
+        "Seed": 457,
+        "Weapon ID": 514,
+        "Wear": 0.01025675
+      },
+      {
+        "Item Name": "Bowie Knife",
+        "Paint Kit": 44,
+        "Paint Kit Name": "Case Hardened",
+        "Seed": 183,
+        "Weapon ID": 514,
+        "Wear": 0.049637526
+      },
+      {
+        "Item Name": "Bowie Knife",
+        "Paint Kit": 12,
+        "Paint Kit Name": "Crimson Web",
+        "Seed": 562,
+        "Weapon ID": 514,
+        "Wear": 0.069037095
+      },
+      {
+        "Item Name": "Bowie Knife",
+        "Paint Kit": 411,
+        "Paint Kit Name": "Damascus Steel",
+        "Seed": 614,
+        "Weapon ID": 514,
+        "Wear": 0.01564963
+      },
+      {
+        "Item Name": "Bowie Knife",
+        "Paint Kit": 416,
+        "Paint Kit Name": "Doppler",
+        "Seed": 568,
+        "Weapon ID": 514,
+        "Wear": 0.0017340168
+      },
+      {
+        "Item Name": "Bowie Knife",
+        "Paint Kit": 417,
+        "Paint Kit Name": "Doppler",
+        "Seed": 972,
+        "Weapon ID": 514,
+        "Wear": 0.00025252916
+      },
+      {
+        "Item Name": "Bowie Knife",
+        "Paint Kit": 415,
+        "Paint Kit Name": "Doppler",
+        "Seed": 77,
+        "Weapon ID": 514,
+        "Wear": 0.0021816294
+      },
+      {
+        "Item Name": "Bowie Knife",
+        "Paint Kit": 418,
+        "Paint Kit Name": "Doppler",
+        "Seed": 900,
+        "Weapon ID": 514,
+        "Wear": 0.0053872615
+      },
+      {
+        "Item Name": "Bowie Knife",
+        "Paint Kit": 419,
+        "Paint Kit Name": "Doppler",
+        "Seed": 13,
+        "Weapon ID": 514,
+        "Wear": 0.0049042976
+      },
+      {
+        "Item Name": "Bowie Knife",
+        "Paint Kit": 420,
+        "Paint Kit Name": "Doppler",
+        "Seed": 694,
+        "Weapon ID": 514,
+        "Wear": 0.0008345361
+      },
+      {
+        "Item Name": "Bowie Knife",
+        "Paint Kit": 421,
+        "Paint Kit Name": "Doppler",
+        "Seed": 15,
+        "Weapon ID": 514,
+        "Wear": 0.00432115
+      },
+      {
+        "Item Name": "Bowie Knife",
+        "Paint Kit": 38,
+        "Paint Kit Name": "Fade",
+        "Seed": 726,
+        "Weapon ID": 514,
+        "Wear": 0.003976408
+      },
+      {
+        "Item Name": "Bowie Knife",
+        "Paint Kit": 5,
+        "Paint Kit Name": "Forest DDPAT",
+        "Seed": 83,
+        "Weapon ID": 514,
+        "Wear": 0.07874549
+      },
+      {
+        "Item Name": "Bowie Knife",
+        "Paint Kit": 581,
+        "Paint Kit Name": "Freehand",
+        "Seed": 490,
+        "Weapon ID": 514,
+        "Wear": 0.02028013
+      },
+      {
+        "Item Name": "Bowie Knife",
+        "Paint Kit": 572,
+        "Paint Kit Name": "Gamma Doppler",
+        "Seed": 863,
+        "Weapon ID": 514,
+        "Wear": 7.9416066e-05
+      },
+      {
+        "Item Name": "Bowie Knife",
+        "Paint Kit": 568,
+        "Paint Kit Name": "Gamma Doppler",
+        "Seed": 65,
+        "Weapon ID": 514,
+        "Wear": 0.0049809623
+      },
+      {
+        "Item Name": "Bowie Knife",
+        "Paint Kit": 571,
+        "Paint Kit Name": "Gamma Doppler",
+        "Seed": 174,
+        "Weapon ID": 514,
+        "Wear": 0.0012737274
+      },
+      {
+        "Item Name": "Bowie Knife",
+        "Paint Kit": 569,
+        "Paint Kit Name": "Gamma Doppler",
+        "Seed": 878,
+        "Weapon ID": 514,
+        "Wear": 0.00051853154
+      },
+      {
+        "Item Name": "Bowie Knife",
+        "Paint Kit": 570,
+        "Paint Kit Name": "Gamma Doppler",
+        "Seed": 525,
+        "Weapon ID": 514,
+        "Wear": 0.0017476326
+      },
+      {
+        "Item Name": "Bowie Knife",
+        "Paint Kit": 1104,
+        "Paint Kit Name": "Lore",
+        "Seed": 823,
+        "Weapon ID": 514,
+        "Wear": 0.016680144
+      },
+      {
+        "Item Name": "Bowie Knife",
+        "Paint Kit": 413,
+        "Paint Kit Name": "Marble Fade",
+        "Seed": 250,
+        "Weapon ID": 514,
+        "Wear": 0.00536348
+      },
+      {
+        "Item Name": "Bowie Knife",
+        "Paint Kit": 40,
+        "Paint Kit Name": "Night",
+        "Seed": 200,
+        "Weapon ID": 514,
+        "Wear": 0.0980946
+      },
+      {
+        "Item Name": "Bowie Knife",
+        "Paint Kit": 414,
+        "Paint Kit Name": "Rust Coat",
+        "Seed": 220,
+        "Weapon ID": 514,
+        "Wear": 0.43939364
+      },
+      {
+        "Item Name": "Bowie Knife",
+        "Paint Kit": 72,
+        "Paint Kit Name": "Safari Mesh",
+        "Seed": 439,
+        "Weapon ID": 514,
+        "Wear": 0.10532231
+      },
+      {
+        "Item Name": "Bowie Knife",
+        "Paint Kit": 175,
+        "Paint Kit Name": "Scorched",
+        "Seed": 282,
+        "Weapon ID": 514,
+        "Wear": 0.08604516
+      },
+      {
+        "Item Name": "Bowie Knife",
+        "Paint Kit": 59,
+        "Paint Kit Name": "Slaughter",
+        "Seed": 791,
+        "Weapon ID": 514,
+        "Wear": 0.026376309
+      },
+      {
+        "Item Name": "Bowie Knife",
+        "Paint Kit": 43,
+        "Paint Kit Name": "Stained",
+        "Seed": 83,
+        "Weapon ID": 514,
+        "Wear": 0.016709032
+      },
+      {
+        "Item Name": "Bowie Knife",
+        "Paint Kit": 409,
+        "Paint Kit Name": "Tiger Tooth",
+        "Seed": 92,
+        "Weapon ID": 514,
+        "Wear": 0.0035785139
+      },
+      {
+        "Item Name": "Bowie Knife",
+        "Paint Kit": 98,
+        "Paint Kit Name": "Ultraviolet",
+        "Seed": 175,
+        "Weapon ID": 514,
+        "Wear": 0.08554822
+      },
+      {
+        "Item Name": "Bowie Knife",
+        "Paint Kit": 143,
+        "Paint Kit Name": "Urban Masked",
+        "Seed": 476,
+        "Weapon ID": 514,
+        "Wear": 0.09474496
+      },
+      {
+        "Item Name": "Butterfly Knife",
+        "Paint Kit": 0,
+        "Paint Kit Name": "",
+        "Seed": 585,
+        "Weapon ID": 515,
+        "Wear": 0.015753482
+      },
+      {
+        "Item Name": "Butterfly Knife",
+        "Paint Kit": 1115,
+        "Paint Kit Name": "Autotronic",
+        "Seed": 76,
+        "Weapon ID": 515,
+        "Wear": 0.04942608
+      },
+      {
+        "Item Name": "Butterfly Knife",
+        "Paint Kit": 1110,
+        "Paint Kit Name": "Black Laminate",
+        "Seed": 269,
+        "Weapon ID": 515,
+        "Wear": 0.06742611
+      },
+      {
+        "Item Name": "Butterfly Knife",
+        "Paint Kit": 42,
+        "Paint Kit Name": "Blue Steel",
+        "Seed": 553,
+        "Weapon ID": 515,
+        "Wear": 0.041054245
+      },
+      {
+        "Equipped": [
+          "CT",
+          "TT"
+        ],
+        "Equipped Slot": 0,
+        "Item Name": "Butterfly Knife",
+        "Paint Kit": 77,
+        "Paint Kit Name": "Boreal Forest",
+        "Seed": 259,
+        "Weapon ID": 515,
+        "Wear": 0.097212344
+      },
+      {
+        "Item Name": "Butterfly Knife",
+        "Paint Kit": 579,
+        "Paint Kit Name": "Bright Water",
+        "Seed": 8,
+        "Weapon ID": 515,
+        "Wear": 0.032671463
+      },
+      {
+        "Item Name": "Butterfly Knife",
+        "Paint Kit": 44,
+        "Paint Kit Name": "Case Hardened",
+        "Seed": 791,
+        "Weapon ID": 515,
+        "Wear": 0.04887509
+      },
+      {
+        "Item Name": "Butterfly Knife",
+        "Paint Kit": 12,
+        "Paint Kit Name": "Crimson Web",
+        "Seed": 149,
+        "Weapon ID": 515,
+        "Wear": 0.09086483
+      },
+      {
+        "Item Name": "Butterfly Knife",
+        "Paint Kit": 411,
+        "Paint Kit Name": "Damascus Steel",
+        "Seed": 663,
+        "Weapon ID": 515,
+        "Wear": 0.0085686045
+      },
+      {
+        "Item Name": "Butterfly Knife",
+        "Paint Kit": 617,
+        "Paint Kit Name": "Doppler",
+        "Seed": 627,
+        "Weapon ID": 515,
+        "Wear": 0.0017523284
+      },
+      {
+        "Item Name": "Butterfly Knife",
+        "Paint Kit": 418,
+        "Paint Kit Name": "Doppler",
+        "Seed": 443,
+        "Weapon ID": 515,
+        "Wear": 0.0045020096
+      },
+      {
+        "Item Name": "Butterfly Knife",
+        "Paint Kit": 420,
+        "Paint Kit Name": "Doppler",
+        "Seed": 109,
+        "Weapon ID": 515,
+        "Wear": 0.0037414732
+      },
+      {
+        "Item Name": "Butterfly Knife",
+        "Paint Kit": 619,
+        "Paint Kit Name": "Doppler",
+        "Seed": 219,
+        "Weapon ID": 515,
+        "Wear": 0.00046018485
+      },
+      {
+        "Item Name": "Butterfly Knife",
+        "Paint Kit": 415,
+        "Paint Kit Name": "Doppler",
+        "Seed": 276,
+        "Weapon ID": 515,
+        "Wear": 0.0046437937
+      },
+      {
+        "Item Name": "Butterfly Knife",
+        "Paint Kit": 618,
+        "Paint Kit Name": "Doppler",
+        "Seed": 110,
+        "Weapon ID": 515,
+        "Wear": 0.0026808956
+      },
+      {
+        "Item Name": "Butterfly Knife",
+        "Paint Kit": 421,
+        "Paint Kit Name": "Doppler",
+        "Seed": 929,
+        "Weapon ID": 515,
+        "Wear": 0.00394651
+      },
+      {
+        "Item Name": "Butterfly Knife",
+        "Paint Kit": 38,
+        "Paint Kit Name": "Fade",
+        "Seed": 206,
+        "Weapon ID": 515,
+        "Wear": 0.0025297278
+      },
+      {
+        "Item Name": "Butterfly Knife",
+        "Paint Kit": 5,
+        "Paint Kit Name": "Forest DDPAT",
+        "Seed": 909,
+        "Weapon ID": 515,
+        "Wear": 0.08773015
+      },
+      {
+        "Item Name": "Butterfly Knife",
+        "Paint Kit": 581,
+        "Paint Kit Name": "Freehand",
+        "Seed": 749,
+        "Weapon ID": 515,
+        "Wear": 0.009962196
+      },
+      {
+        "Item Name": "Butterfly Knife",
+        "Paint Kit": 571,
+        "Paint Kit Name": "Gamma Doppler",
+        "Seed": 529,
+        "Weapon ID": 515,
+        "Wear": 0.003175624
+      },
+      {
+        "Item Name": "Butterfly Knife",
+        "Paint Kit": 570,
+        "Paint Kit Name": "Gamma Doppler",
+        "Seed": 455,
+        "Weapon ID": 515,
+        "Wear": 0.0026396294
+      },
+      {
+        "Item Name": "Butterfly Knife",
+        "Paint Kit": 572,
+        "Paint Kit Name": "Gamma Doppler",
+        "Seed": 308,
+        "Weapon ID": 515,
+        "Wear": 0.005112667
+      },
+      {
+        "Item Name": "Butterfly Knife",
+        "Paint Kit": 569,
+        "Paint Kit Name": "Gamma Doppler",
+        "Seed": 915,
+        "Weapon ID": 515,
+        "Wear": 0.004464163
+      },
+      {
+        "Item Name": "Butterfly Knife",
+        "Paint Kit": 568,
+        "Paint Kit Name": "Gamma Doppler",
+        "Seed": 204,
+        "Weapon ID": 515,
+        "Wear": 0.001486821
+      },
+      {
+        "Item Name": "Butterfly Knife",
+        "Paint Kit": 1105,
+        "Paint Kit Name": "Lore",
+        "Seed": 855,
+        "Weapon ID": 515,
+        "Wear": 0.023521882
+      },
+      {
+        "Item Name": "Butterfly Knife",
+        "Paint Kit": 413,
+        "Paint Kit Name": "Marble Fade",
+        "Seed": 545,
+        "Weapon ID": 515,
+        "Wear": 0.002655355
+      },
+      {
+        "Item Name": "Butterfly Knife",
+        "Paint Kit": 40,
+        "Paint Kit Name": "Night",
+        "Seed": 251,
+        "Weapon ID": 515,
+        "Wear": 0.07524327
+      },
+      {
+        "Item Name": "Butterfly Knife",
+        "Paint Kit": 414,
+        "Paint Kit Name": "Rust Coat",
+        "Seed": 704,
+        "Weapon ID": 515,
+        "Wear": 0.42693532
+      },
+      {
+        "Item Name": "Butterfly Knife",
+        "Paint Kit": 72,
+        "Paint Kit Name": "Safari Mesh",
+        "Seed": 956,
+        "Weapon ID": 515,
+        "Wear": 0.101474926
+      },
+      {
+        "Item Name": "Butterfly Knife",
+        "Paint Kit": 175,
+        "Paint Kit Name": "Scorched",
+        "Seed": 246,
+        "Weapon ID": 515,
+        "Wear": 0.0760715
+      },
+      {
+        "Item Name": "Butterfly Knife",
+        "Paint Kit": 59,
+        "Paint Kit Name": "Slaughter",
+        "Seed": 878,
+        "Weapon ID": 515,
+        "Wear": 0.023036638
+      },
+      {
+        "Item Name": "Butterfly Knife",
+        "Paint Kit": 43,
+        "Paint Kit Name": "Stained",
+        "Seed": 677,
+        "Weapon ID": 515,
+        "Wear": 0.05021567
+      },
+      {
+        "Item Name": "Butterfly Knife",
+        "Paint Kit": 409,
+        "Paint Kit Name": "Tiger Tooth",
+        "Seed": 741,
+        "Weapon ID": 515,
+        "Wear": 0.0033165358
+      },
+      {
+        "Item Name": "Butterfly Knife",
+        "Paint Kit": 98,
+        "Paint Kit Name": "Ultraviolet",
+        "Seed": 609,
+        "Weapon ID": 515,
+        "Wear": 0.089998685
+      },
+      {
+        "Item Name": "Butterfly Knife",
+        "Paint Kit": 143,
+        "Paint Kit Name": "Urban Masked",
+        "Seed": 303,
+        "Weapon ID": 515,
+        "Wear": 0.10203503
+      },
+      {
+        "Item Name": "Classic Knife",
+        "Paint Kit": 0,
+        "Paint Kit Name": "",
+        "Seed": 243,
+        "Weapon ID": 503,
+        "Wear": 0.06301694
+      },
+      {
+        "Item Name": "Classic Knife",
+        "Paint Kit": 42,
+        "Paint Kit Name": "Blue Steel",
+        "Seed": 984,
+        "Weapon ID": 503,
+        "Wear": 0.0121101765
+      },
+      {
+        "Item Name": "Classic Knife",
+        "Paint Kit": 77,
+        "Paint Kit Name": "Boreal Forest",
+        "Seed": 734,
+        "Weapon ID": 503,
+        "Wear": 0.08807595
+      },
+      {
+        "Item Name": "Classic Knife",
+        "Paint Kit": 44,
+        "Paint Kit Name": "Case Hardened",
+        "Seed": 794,
+        "Weapon ID": 503,
+        "Wear": 0.06480544
+      },
+      {
+        "Item Name": "Classic Knife",
+        "Paint Kit": 12,
+        "Paint Kit Name": "Crimson Web",
+        "Seed": 441,
+        "Weapon ID": 503,
+        "Wear": 0.061350867
+      },
+      {
+        "Item Name": "Classic Knife",
+        "Paint Kit": 38,
+        "Paint Kit Name": "Fade",
+        "Seed": 248,
+        "Weapon ID": 503,
+        "Wear": 0.0029710974
+      },
+      {
+        "Item Name": "Classic Knife",
+        "Paint Kit": 5,
+        "Paint Kit Name": "Forest DDPAT",
+        "Seed": 621,
+        "Weapon ID": 503,
+        "Wear": 0.108322084
+      },
+      {
+        "Item Name": "Classic Knife",
+        "Paint Kit": 735,
+        "Paint Kit Name": "Night Stripe",
+        "Seed": 412,
+        "Weapon ID": 503,
+        "Wear": 0.096422195
+      },
+      {
+        "Item Name": "Classic Knife",
+        "Paint Kit": 72,
+        "Paint Kit Name": "Safari Mesh",
+        "Seed": 412,
+        "Weapon ID": 503,
+        "Wear": 0.07919587
+      },
+      {
+        "Item Name": "Classic Knife",
+        "Paint Kit": 175,
+        "Paint Kit Name": "Scorched",
+        "Seed": 847,
+        "Weapon ID": 503,
+        "Wear": 0.09313014
+      },
+      {
+        "Item Name": "Classic Knife",
+        "Paint Kit": 59,
+        "Paint Kit Name": "Slaughter",
+        "Seed": 47,
+        "Weapon ID": 503,
+        "Wear": 0.020791002
+      },
+      {
+        "Item Name": "Classic Knife",
+        "Paint Kit": 43,
+        "Paint Kit Name": "Stained",
+        "Seed": 239,
+        "Weapon ID": 503,
+        "Wear": 0.013434315
+      },
+      {
+        "Item Name": "Classic Knife",
+        "Paint Kit": 143,
+        "Paint Kit Name": "Urban Masked",
+        "Seed": 13,
+        "Weapon ID": 503,
+        "Wear": 0.08317286
+      },
+      {
+        "Item Name": "Falchion Knife",
+        "Paint Kit": 0,
+        "Paint Kit Name": "",
+        "Seed": 81,
+        "Weapon ID": 512,
+        "Wear": 0.034613512
+      },
+      {
+        "Item Name": "Falchion Knife",
+        "Paint Kit": 1116,
+        "Paint Kit Name": "Autotronic",
+        "Seed": 353,
+        "Weapon ID": 512,
+        "Wear": 0.037461203
+      },
+      {
+        "Item Name": "Falchion Knife",
+        "Paint Kit": 1111,
+        "Paint Kit Name": "Black Laminate",
+        "Seed": 372,
+        "Weapon ID": 512,
+        "Wear": 0.020271728
+      },
+      {
+        "Item Name": "Falchion Knife",
+        "Paint Kit": 42,
+        "Paint Kit Name": "Blue Steel",
+        "Seed": 281,
+        "Weapon ID": 512,
+        "Wear": 0.06814858
+      },
+      {
+        "Item Name": "Falchion Knife",
+        "Paint Kit": 77,
+        "Paint Kit Name": "Boreal Forest",
+        "Seed": 181,
+        "Weapon ID": 512,
+        "Wear": 0.1053749
+      },
+      {
+        "Item Name": "Falchion Knife",
+        "Paint Kit": 579,
+        "Paint Kit Name": "Bright Water",
+        "Seed": 111,
+        "Weapon ID": 512,
+        "Wear": 0.029765798
+      },
+      {
+        "Item Name": "Falchion Knife",
+        "Paint Kit": 44,
+        "Paint Kit Name": "Case Hardened",
+        "Seed": 821,
+        "Weapon ID": 512,
+        "Wear": 0.057641562
+      },
+      {
+        "Item Name": "Falchion Knife",
+        "Paint Kit": 12,
+        "Paint Kit Name": "Crimson Web",
+        "Seed": 493,
+        "Weapon ID": 512,
+        "Wear": 0.060298722
+      },
+      {
+        "Item Name": "Falchion Knife",
+        "Paint Kit": 411,
+        "Paint Kit Name": "Damascus Steel",
+        "Seed": 384,
+        "Weapon ID": 512,
+        "Wear": 0.015369555
+      },
+      {
+        "Item Name": "Falchion Knife",
+        "Paint Kit": 421,
+        "Paint Kit Name": "Doppler",
+        "Seed": 350,
+        "Weapon ID": 512,
+        "Wear": 0.0018564862
+      },
+      {
+        "Item Name": "Falchion Knife",
+        "Paint Kit": 420,
+        "Paint Kit Name": "Doppler",
+        "Seed": 849,
+        "Weapon ID": 512,
+        "Wear": 0.0031924795
+      },
+      {
+        "Item Name": "Falchion Knife",
+        "Paint Kit": 419,
+        "Paint Kit Name": "Doppler",
+        "Seed": 110,
+        "Weapon ID": 512,
+        "Wear": 0.0036846015
+      },
+      {
+        "Item Name": "Falchion Knife",
+        "Paint Kit": 418,
+        "Paint Kit Name": "Doppler",
+        "Seed": 114,
+        "Weapon ID": 512,
+        "Wear": 0.0047111646
+      },
+      {
+        "Item Name": "Falchion Knife",
+        "Paint Kit": 417,
+        "Paint Kit Name": "Doppler",
+        "Seed": 821,
+        "Weapon ID": 512,
+        "Wear": 0.0053500365
+      },
+      {
+        "Item Name": "Falchion Knife",
+        "Paint Kit": 416,
+        "Paint Kit Name": "Doppler",
+        "Seed": 934,
+        "Weapon ID": 512,
+        "Wear": 0.0007174188
+      },
+      {
+        "Item Name": "Falchion Knife",
+        "Paint Kit": 415,
+        "Paint Kit Name": "Doppler",
+        "Seed": 466,
+        "Weapon ID": 512,
+        "Wear": 0.0055878693
+      },
+      {
+        "Item Name": "Falchion Knife",
+        "Paint Kit": 38,
+        "Paint Kit Name": "Fade",
+        "Seed": 984,
+        "Weapon ID": 512,
+        "Wear": 0.0017108739
+      },
+      {
+        "Item Name": "Falchion Knife",
+        "Paint Kit": 5,
+        "Paint Kit Name": "Forest DDPAT",
+        "Seed": 655,
+        "Weapon ID": 512,
+        "Wear": 0.08281414
+      },
+      {
+        "Item Name": "Falchion Knife",
+        "Paint Kit": 581,
+        "Paint Kit Name": "Freehand",
+        "Seed": 162,
+        "Weapon ID": 512,
+        "Wear": 0.02194591
+      },
+      {
+        "Item Name": "Falchion Knife",
+        "Paint Kit": 572,
+        "Paint Kit Name": "Gamma Doppler",
+        "Seed": 98,
+        "Weapon ID": 512,
+        "Wear": 0.0010065532
+      },
+      {
+        "Item Name": "Falchion Knife",
+        "Paint Kit": 571,
+        "Paint Kit Name": "Gamma Doppler",
+        "Seed": 19,
+        "Weapon ID": 512,
+        "Wear": 0.0040924367
+      },
+      {
+        "Item Name": "Falchion Knife",
+        "Paint Kit": 570,
+        "Paint Kit Name": "Gamma Doppler",
+        "Seed": 742,
+        "Weapon ID": 512,
+        "Wear": 0.0052686827
+      },
+      {
+        "Item Name": "Falchion Knife",
+        "Paint Kit": 569,
+        "Paint Kit Name": "Gamma Doppler",
+        "Seed": 941,
+        "Weapon ID": 512,
+        "Wear": 0.0042292713
+      },
+      {
+        "Item Name": "Falchion Knife",
+        "Paint Kit": 568,
+        "Paint Kit Name": "Gamma Doppler",
+        "Seed": 375,
+        "Weapon ID": 512,
+        "Wear": 0.0011663234
+      },
+      {
+        "Item Name": "Falchion Knife",
+        "Paint Kit": 1106,
+        "Paint Kit Name": "Lore",
+        "Seed": 121,
+        "Weapon ID": 512,
+        "Wear": 0.0067170374
+      },
+      {
+        "Item Name": "Falchion Knife",
+        "Paint Kit": 413,
+        "Paint Kit Name": "Marble Fade",
+        "Seed": 942,
+        "Weapon ID": 512,
+        "Wear": 0.0051056435
+      },
+      {
+        "Item Name": "Falchion Knife",
+        "Paint Kit": 40,
+        "Paint Kit Name": "Night",
+        "Seed": 259,
+        "Weapon ID": 512,
+        "Wear": 0.069345094
+      },
+      {
+        "Item Name": "Falchion Knife",
+        "Paint Kit": 414,
+        "Paint Kit Name": "Rust Coat",
+        "Seed": 17,
+        "Weapon ID": 512,
+        "Wear": 0.4301088
+      },
+      {
+        "Item Name": "Falchion Knife",
+        "Paint Kit": 72,
+        "Paint Kit Name": "Safari Mesh",
+        "Seed": 588,
+        "Weapon ID": 512,
+        "Wear": 0.08321337
+      },
+      {
+        "Item Name": "Falchion Knife",
+        "Paint Kit": 175,
+        "Paint Kit Name": "Scorched",
+        "Seed": 480,
+        "Weapon ID": 512,
+        "Wear": 0.0902594
+      },
+      {
+        "Item Name": "Falchion Knife",
+        "Paint Kit": 59,
+        "Paint Kit Name": "Slaughter",
+        "Seed": 854,
+        "Weapon ID": 512,
+        "Wear": 0.020748539
+      },
+      {
+        "Item Name": "Falchion Knife",
+        "Paint Kit": 43,
+        "Paint Kit Name": "Stained",
+        "Seed": 466,
+        "Weapon ID": 512,
+        "Wear": 0.053281244
+      },
+      {
+        "Item Name": "Falchion Knife",
+        "Paint Kit": 409,
+        "Paint Kit Name": "Tiger Tooth",
+        "Seed": 542,
+        "Weapon ID": 512,
+        "Wear": 0.0044983826
+      },
+      {
+        "Item Name": "Falchion Knife",
+        "Paint Kit": 621,
+        "Paint Kit Name": "Ultraviolet",
+        "Seed": 459,
+        "Weapon ID": 512,
+        "Wear": 0.10726079
+      },
+      {
+        "Item Name": "Falchion Knife",
+        "Paint Kit": 143,
+        "Paint Kit Name": "Urban Masked",
+        "Seed": 875,
+        "Weapon ID": 512,
+        "Wear": 0.09463626
+      },
+      {
+        "Item Name": "Flip Knife",
+        "Paint Kit": 0,
+        "Paint Kit Name": "",
+        "Seed": 336,
+        "Weapon ID": 505,
+        "Wear": 0.03493963
+      },
+      {
+        "Item Name": "Flip Knife",
+        "Paint Kit": 574,
+        "Paint Kit Name": "Autotronic",
+        "Seed": 274,
+        "Weapon ID": 505,
+        "Wear": 0.0327633
+      },
+      {
+        "Item Name": "Flip Knife",
+        "Paint Kit": 564,
+        "Paint Kit Name": "Black Laminate",
+        "Seed": 13,
+        "Weapon ID": 505,
+        "Wear": 0.01757079
+      },
+      {
+        "Item Name": "Flip Knife",
+        "Paint Kit": 42,
+        "Paint Kit Name": "Blue Steel",
+        "Seed": 390,
+        "Weapon ID": 505,
+        "Wear": 0.0063961134
+      },
+      {
+        "Item Name": "Flip Knife",
+        "Paint Kit": 77,
+        "Paint Kit Name": "Boreal Forest",
+        "Seed": 519,
+        "Weapon ID": 505,
+        "Wear": 0.071956225
+      },
+      {
+        "Item Name": "Flip Knife",
+        "Paint Kit": 578,
+        "Paint Kit Name": "Bright Water",
+        "Seed": 904,
+        "Weapon ID": 505,
+        "Wear": 0.016199451
+      },
+      {
+        "Item Name": "Flip Knife",
+        "Paint Kit": 44,
+        "Paint Kit Name": "Case Hardened",
+        "Seed": 584,
+        "Weapon ID": 505,
+        "Wear": 0.018915165
+      },
+      {
+        "Item Name": "Flip Knife",
+        "Paint Kit": 12,
+        "Paint Kit Name": "Crimson Web",
+        "Seed": 930,
+        "Weapon ID": 505,
+        "Wear": 0.06884151
+      },
+      {
+        "Item Name": "Flip Knife",
+        "Paint Kit": 410,
+        "Paint Kit Name": "Damascus Steel",
+        "Seed": 335,
+        "Weapon ID": 505,
+        "Wear": 0.023322111
+      },
+      {
+        "Item Name": "Flip Knife",
+        "Paint Kit": 419,
+        "Paint Kit Name": "Doppler",
+        "Seed": 730,
+        "Weapon ID": 505,
+        "Wear": 0.0010950296
+      },
+      {
+        "Item Name": "Flip Knife",
+        "Paint Kit": 418,
+        "Paint Kit Name": "Doppler",
+        "Seed": 654,
+        "Weapon ID": 505,
+        "Wear": 0.00082861236
+      },
+      {
+        "Item Name": "Flip Knife",
+        "Paint Kit": 417,
+        "Paint Kit Name": "Doppler",
+        "Seed": 169,
+        "Weapon ID": 505,
+        "Wear": 0.0016019959
+      },
+      {
+        "Item Name": "Flip Knife",
+        "Paint Kit": 416,
+        "Paint Kit Name": "Doppler",
+        "Seed": 155,
+        "Weapon ID": 505,
+        "Wear": 0.0002475362
+      },
+      {
+        "Item Name": "Flip Knife",
+        "Paint Kit": 415,
+        "Paint Kit Name": "Doppler",
+        "Seed": 599,
+        "Weapon ID": 505,
+        "Wear": 0.003184754
+      },
+      {
+        "Item Name": "Flip Knife",
+        "Paint Kit": 420,
+        "Paint Kit Name": "Doppler",
+        "Seed": 947,
+        "Weapon ID": 505,
+        "Wear": 0.0009223243
+      },
+      {
+        "Item Name": "Flip Knife",
+        "Paint Kit": 421,
+        "Paint Kit Name": "Doppler",
+        "Seed": 2,
+        "Weapon ID": 505,
+        "Wear": 0.0052219806
+      },
+      {
+        "Item Name": "Flip Knife",
+        "Paint Kit": 38,
+        "Paint Kit Name": "Fade",
+        "Seed": 929,
+        "Weapon ID": 505,
+        "Wear": 0.0010087303
+      },
+      {
+        "Item Name": "Flip Knife",
+        "Paint Kit": 5,
+        "Paint Kit Name": "Forest DDPAT",
+        "Seed": 576,
+        "Weapon ID": 505,
+        "Wear": 0.077044696
+      },
+      {
+        "Item Name": "Flip Knife",
+        "Paint Kit": 580,
+        "Paint Kit Name": "Freehand",
+        "Seed": 434,
+        "Weapon ID": 505,
+        "Wear": 0.02628
+      },
+      {
+        "Item Name": "Flip Knife",
+        "Paint Kit": 569,
+        "Paint Kit Name": "Gamma Doppler",
+        "Seed": 213,
+        "Weapon ID": 505,
+        "Wear": 0.00474428
+      },
+      {
+        "Item Name": "Flip Knife",
+        "Paint Kit": 570,
+        "Paint Kit Name": "Gamma Doppler",
+        "Seed": 39,
+        "Weapon ID": 505,
+        "Wear": 0.0007320408
+      },
+      {
+        "Item Name": "Flip Knife",
+        "Paint Kit": 571,
+        "Paint Kit Name": "Gamma Doppler",
+        "Seed": 62,
+        "Weapon ID": 505,
+        "Wear": 0.0031505472
+      },
+      {
+        "Item Name": "Flip Knife",
+        "Paint Kit": 568,
+        "Paint Kit Name": "Gamma Doppler",
+        "Seed": 991,
+        "Weapon ID": 505,
+        "Wear": 0.0004068663
+      },
+      {
+        "Item Name": "Flip Knife",
+        "Paint Kit": 572,
+        "Paint Kit Name": "Gamma Doppler",
+        "Seed": 245,
+        "Weapon ID": 505,
+        "Wear": 0.0018854057
+      },
+      {
+        "Item Name": "Flip Knife",
+        "Paint Kit": 559,
+        "Paint Kit Name": "Lore",
+        "Seed": 345,
+        "Weapon ID": 505,
+        "Wear": 0.018957658
+      },
+      {
+        "Item Name": "Flip Knife",
+        "Paint Kit": 413,
+        "Paint Kit Name": "Marble Fade",
+        "Seed": 688,
+        "Weapon ID": 505,
+        "Wear": 0.0032323413
+      },
+      {
+        "Item Name": "Flip Knife",
+        "Paint Kit": 40,
+        "Paint Kit Name": "Night",
+        "Seed": 44,
+        "Weapon ID": 505,
+        "Wear": 0.089813225
+      },
+      {
+        "Item Name": "Flip Knife",
+        "Paint Kit": 414,
+        "Paint Kit Name": "Rust Coat",
+        "Seed": 274,
+        "Weapon ID": 505,
+        "Wear": 0.40506488
+      },
+      {
+        "Item Name": "Flip Knife",
+        "Paint Kit": 72,
+        "Paint Kit Name": "Safari Mesh",
+        "Seed": 538,
+        "Weapon ID": 505,
+        "Wear": 0.09560291
+      },
+      {
+        "Item Name": "Flip Knife",
+        "Paint Kit": 175,
+        "Paint Kit Name": "Scorched",
+        "Seed": 297,
+        "Weapon ID": 505,
+        "Wear": 0.08161855
+      },
+      {
+        "Item Name": "Flip Knife",
+        "Paint Kit": 59,
+        "Paint Kit Name": "Slaughter",
+        "Seed": 264,
+        "Weapon ID": 505,
+        "Wear": 0.025763987
+      },
+      {
+        "Item Name": "Flip Knife",
+        "Paint Kit": 43,
+        "Paint Kit Name": "Stained",
+        "Seed": 339,
+        "Weapon ID": 505,
+        "Wear": 0.004678975
+      },
+      {
+        "Item Name": "Flip Knife",
+        "Paint Kit": 409,
+        "Paint Kit Name": "Tiger Tooth",
+        "Seed": 757,
+        "Weapon ID": 505,
+        "Wear": 0.0011383075
+      },
+      {
+        "Item Name": "Flip Knife",
+        "Paint Kit": 98,
+        "Paint Kit Name": "Ultraviolet",
+        "Seed": 518,
+        "Weapon ID": 505,
+        "Wear": 0.06649169
+      },
+      {
+        "Item Name": "Flip Knife",
+        "Paint Kit": 143,
+        "Paint Kit Name": "Urban Masked",
+        "Seed": 11,
+        "Weapon ID": 505,
+        "Wear": 0.10256069
+      },
+      {
+        "Item Name": "Gut Knife",
+        "Paint Kit": 0,
+        "Paint Kit Name": "",
+        "Seed": 632,
+        "Weapon ID": 506,
+        "Wear": 0.053709917
+      },
+      {
+        "Item Name": "Gut Knife",
+        "Paint Kit": 575,
+        "Paint Kit Name": "Autotronic",
+        "Seed": 121,
+        "Weapon ID": 506,
+        "Wear": 0.003693336
+      },
+      {
+        "Item Name": "Gut Knife",
+        "Paint Kit": 565,
+        "Paint Kit Name": "Black Laminate",
+        "Seed": 205,
+        "Weapon ID": 506,
+        "Wear": 0.02714629
+      },
+      {
+        "Item Name": "Gut Knife",
+        "Paint Kit": 42,
+        "Paint Kit Name": "Blue Steel",
+        "Seed": 718,
+        "Weapon ID": 506,
+        "Wear": 0.06974371
+      },
+      {
+        "Item Name": "Gut Knife",
+        "Paint Kit": 77,
+        "Paint Kit Name": "Boreal Forest",
+        "Seed": 94,
+        "Weapon ID": 506,
+        "Wear": 0.07700001
+      },
+      {
+        "Item Name": "Gut Knife",
+        "Paint Kit": 578,
+        "Paint Kit Name": "Bright Water",
+        "Seed": 521,
+        "Weapon ID": 506,
+        "Wear": 0.026089108
+      },
+      {
+        "Item Name": "Gut Knife",
+        "Paint Kit": 44,
+        "Paint Kit Name": "Case Hardened",
+        "Seed": 293,
+        "Weapon ID": 506,
+        "Wear": 0.03568606
+      },
+      {
+        "Item Name": "Gut Knife",
+        "Paint Kit": 12,
+        "Paint Kit Name": "Crimson Web",
+        "Seed": 636,
+        "Weapon ID": 506,
+        "Wear": 0.078920364
+      },
+      {
+        "Item Name": "Gut Knife",
+        "Paint Kit": 410,
+        "Paint Kit Name": "Damascus Steel",
+        "Seed": 268,
+        "Weapon ID": 506,
+        "Wear": 0.02357039
+      },
+      {
+        "Item Name": "Gut Knife",
+        "Paint Kit": 419,
+        "Paint Kit Name": "Doppler",
+        "Seed": 348,
+        "Weapon ID": 506,
+        "Wear": 0.00054917554
+      },
+      {
+        "Item Name": "Gut Knife",
+        "Paint Kit": 420,
+        "Paint Kit Name": "Doppler",
+        "Seed": 948,
+        "Weapon ID": 506,
+        "Wear": 0.0032465293
+      },
+      {
+        "Item Name": "Gut Knife",
+        "Paint Kit": 421,
+        "Paint Kit Name": "Doppler",
+        "Seed": 372,
+        "Weapon ID": 506,
+        "Wear": 0.004068898
+      },
+      {
+        "Item Name": "Gut Knife",
+        "Paint Kit": 418,
+        "Paint Kit Name": "Doppler",
+        "Seed": 43,
+        "Weapon ID": 506,
+        "Wear": 0.0007022814
+      },
+      {
+        "Item Name": "Gut Knife",
+        "Paint Kit": 417,
+        "Paint Kit Name": "Doppler",
+        "Seed": 654,
+        "Weapon ID": 506,
+        "Wear": 0.0031138754
+      },
+      {
+        "Item Name": "Gut Knife",
+        "Paint Kit": 416,
+        "Paint Kit Name": "Doppler",
+        "Seed": 863,
+        "Weapon ID": 506,
+        "Wear": 0.00399338
+      },
+      {
+        "Item Name": "Gut Knife",
+        "Paint Kit": 415,
+        "Paint Kit Name": "Doppler",
+        "Seed": 919,
+        "Weapon ID": 506,
+        "Wear": 0.002679059
+      },
+      {
+        "Item Name": "Gut Knife",
+        "Paint Kit": 38,
+        "Paint Kit Name": "Fade",
+        "Seed": 856,
+        "Weapon ID": 506,
+        "Wear": 0.00075708015
+      },
+      {
+        "Item Name": "Gut Knife",
+        "Paint Kit": 5,
+        "Paint Kit Name": "Forest DDPAT",
+        "Seed": 475,
+        "Weapon ID": 506,
+        "Wear": 0.10440536
+      },
+      {
+        "Item Name": "Gut Knife",
+        "Paint Kit": 580,
+        "Paint Kit Name": "Freehand",
+        "Seed": 22,
+        "Weapon ID": 506,
+        "Wear": 0.02805715
+      },
+      {
+        "Item Name": "Gut Knife",
+        "Paint Kit": 572,
+        "Paint Kit Name": "Gamma Doppler",
+        "Seed": 189,
+        "Weapon ID": 506,
+        "Wear": 0.004386352
+      },
+      {
+        "Item Name": "Gut Knife",
+        "Paint Kit": 571,
+        "Paint Kit Name": "Gamma Doppler",
+        "Seed": 484,
+        "Weapon ID": 506,
+        "Wear": 0.0014533061
+      },
+      {
+        "Item Name": "Gut Knife",
+        "Paint Kit": 570,
+        "Paint Kit Name": "Gamma Doppler",
+        "Seed": 611,
+        "Weapon ID": 506,
+        "Wear": 5.536232e-05
+      },
+      {
+        "Item Name": "Gut Knife",
+        "Paint Kit": 569,
+        "Paint Kit Name": "Gamma Doppler",
+        "Seed": 964,
+        "Weapon ID": 506,
+        "Wear": 0.0019226633
+      },
+      {
+        "Item Name": "Gut Knife",
+        "Paint Kit": 568,
+        "Paint Kit Name": "Gamma Doppler",
+        "Seed": 191,
+        "Weapon ID": 506,
+        "Wear": 0.0019373074
+      },
+      {
+        "Item Name": "Gut Knife",
+        "Paint Kit": 560,
+        "Paint Kit Name": "Lore",
+        "Seed": 61,
+        "Weapon ID": 506,
+        "Wear": 0.03738297
+      },
+      {
+        "Item Name": "Gut Knife",
+        "Paint Kit": 413,
+        "Paint Kit Name": "Marble Fade",
+        "Seed": 141,
+        "Weapon ID": 506,
+        "Wear": 0.0027794589
+      },
+      {
+        "Item Name": "Gut Knife",
+        "Paint Kit": 40,
+        "Paint Kit Name": "Night",
+        "Seed": 766,
+        "Weapon ID": 506,
+        "Wear": 0.06880873
+      },
+      {
+        "Item Name": "Gut Knife",
+        "Paint Kit": 414,
+        "Paint Kit Name": "Rust Coat",
+        "Seed": 178,
+        "Weapon ID": 506,
+        "Wear": 0.4038991
+      },
+      {
+        "Item Name": "Gut Knife",
+        "Paint Kit": 72,
+        "Paint Kit Name": "Safari Mesh",
+        "Seed": 725,
+        "Weapon ID": 506,
+        "Wear": 0.07046874
+      },
+      {
+        "Item Name": "Gut Knife",
+        "Paint Kit": 175,
+        "Paint Kit Name": "Scorched",
+        "Seed": 200,
+        "Weapon ID": 506,
+        "Wear": 0.09348959
+      },
+      {
+        "Item Name": "Gut Knife",
+        "Paint Kit": 59,
+        "Paint Kit Name": "Slaughter",
+        "Seed": 371,
+        "Weapon ID": 506,
+        "Wear": 0.011551066
+      },
+      {
+        "Item Name": "Gut Knife",
+        "Paint Kit": 43,
+        "Paint Kit Name": "Stained",
+        "Seed": 562,
+        "Weapon ID": 506,
+        "Wear": 0.014635023
+      },
+      {
+        "Item Name": "Gut Knife",
+        "Paint Kit": 409,
+        "Paint Kit Name": "Tiger Tooth",
+        "Seed": 401,
+        "Weapon ID": 506,
+        "Wear": 0.00024598138
+      },
+      {
+        "Item Name": "Gut Knife",
+        "Paint Kit": 98,
+        "Paint Kit Name": "Ultraviolet",
+        "Seed": 610,
+        "Weapon ID": 506,
+        "Wear": 0.06740652
+      },
+      {
+        "Item Name": "Gut Knife",
+        "Paint Kit": 143,
+        "Paint Kit Name": "Urban Masked",
+        "Seed": 139,
+        "Weapon ID": 506,
+        "Wear": 0.105576694
+      },
+      {
+        "Item Name": "Huntsman Knife",
+        "Paint Kit": 0,
+        "Paint Kit Name": "",
+        "Seed": 493,
+        "Weapon ID": 509,
+        "Wear": 0.06151656
+      },
+      {
+        "Item Name": "Huntsman Knife",
+        "Paint Kit": 1117,
+        "Paint Kit Name": "Autotronic",
+        "Seed": 187,
+        "Weapon ID": 509,
+        "Wear": 0.026309533
+      },
+      {
+        "Item Name": "Huntsman Knife",
+        "Paint Kit": 1112,
+        "Paint Kit Name": "Black Laminate",
+        "Seed": 933,
+        "Weapon ID": 509,
+        "Wear": 0.057537295
+      },
+      {
+        "Item Name": "Huntsman Knife",
+        "Paint Kit": 42,
+        "Paint Kit Name": "Blue Steel",
+        "Seed": 580,
+        "Weapon ID": 509,
+        "Wear": 0.055782024
+      },
+      {
+        "Item Name": "Huntsman Knife",
+        "Paint Kit": 77,
+        "Paint Kit Name": "Boreal Forest",
+        "Seed": 49,
+        "Weapon ID": 509,
+        "Wear": 0.10435134
+      },
+      {
+        "Item Name": "Huntsman Knife",
+        "Paint Kit": 579,
+        "Paint Kit Name": "Bright Water",
+        "Seed": 184,
+        "Weapon ID": 509,
+        "Wear": 0.006659029
+      },
+      {
+        "Item Name": "Huntsman Knife",
+        "Paint Kit": 44,
+        "Paint Kit Name": "Case Hardened",
+        "Seed": 556,
+        "Weapon ID": 509,
+        "Wear": 0.050644126
+      },
+      {
+        "Item Name": "Huntsman Knife",
+        "Paint Kit": 12,
+        "Paint Kit Name": "Crimson Web",
+        "Seed": 201,
+        "Weapon ID": 509,
+        "Wear": 0.107853666
+      },
+      {
+        "Item Name": "Huntsman Knife",
+        "Paint Kit": 411,
+        "Paint Kit Name": "Damascus Steel",
+        "Seed": 75,
+        "Weapon ID": 509,
+        "Wear": 0.015992254
+      },
+      {
+        "Item Name": "Huntsman Knife",
+        "Paint Kit": 421,
+        "Paint Kit Name": "Doppler",
+        "Seed": 777,
+        "Weapon ID": 509,
+        "Wear": 0.0007737444
+      },
+      {
+        "Item Name": "Huntsman Knife",
+        "Paint Kit": 420,
+        "Paint Kit Name": "Doppler",
+        "Seed": 13,
+        "Weapon ID": 509,
+        "Wear": 0.0025501996
+      },
+      {
+        "Item Name": "Huntsman Knife",
+        "Paint Kit": 419,
+        "Paint Kit Name": "Doppler",
+        "Seed": 13,
+        "Weapon ID": 509,
+        "Wear": 0.004990059
+      },
+      {
+        "Item Name": "Huntsman Knife",
+        "Paint Kit": 418,
+        "Paint Kit Name": "Doppler",
+        "Seed": 195,
+        "Weapon ID": 509,
+        "Wear": 0.0017797708
+      },
+      {
+        "Item Name": "Huntsman Knife",
+        "Paint Kit": 417,
+        "Paint Kit Name": "Doppler",
+        "Seed": 109,
+        "Weapon ID": 509,
+        "Wear": 0.0043487856
+      },
+      {
+        "Item Name": "Huntsman Knife",
+        "Paint Kit": 416,
+        "Paint Kit Name": "Doppler",
+        "Seed": 779,
+        "Weapon ID": 509,
+        "Wear": 0.0012123826
+      },
+      {
+        "Item Name": "Huntsman Knife",
+        "Paint Kit": 415,
+        "Paint Kit Name": "Doppler",
+        "Seed": 483,
+        "Weapon ID": 509,
+        "Wear": 0.0046655056
+      },
+      {
+        "Item Name": "Huntsman Knife",
+        "Paint Kit": 38,
+        "Paint Kit Name": "Fade",
+        "Seed": 411,
+        "Weapon ID": 509,
+        "Wear": 0.0012886144
+      },
+      {
+        "Item Name": "Huntsman Knife",
+        "Paint Kit": 5,
+        "Paint Kit Name": "Forest DDPAT",
+        "Seed": 62,
+        "Weapon ID": 509,
+        "Wear": 0.09018511
+      },
+      {
+        "Item Name": "Huntsman Knife",
+        "Paint Kit": 581,
+        "Paint Kit Name": "Freehand",
+        "Seed": 557,
+        "Weapon ID": 509,
+        "Wear": 0.024265518
+      },
+      {
+        "Item Name": "Huntsman Knife",
+        "Paint Kit": 572,
+        "Paint Kit Name": "Gamma Doppler",
+        "Seed": 714,
+        "Weapon ID": 509,
+        "Wear": 0.0005179666
+      },
+      {
+        "Item Name": "Huntsman Knife",
+        "Paint Kit": 571,
+        "Paint Kit Name": "Gamma Doppler",
+        "Seed": 398,
+        "Weapon ID": 509,
+        "Wear": 0.002836431
+      },
+      {
+        "Item Name": "Huntsman Knife",
+        "Paint Kit": 570,
+        "Paint Kit Name": "Gamma Doppler",
+        "Seed": 999,
+        "Weapon ID": 509,
+        "Wear": 0.0036509903
+      },
+      {
+        "Item Name": "Huntsman Knife",
+        "Paint Kit": 569,
+        "Paint Kit Name": "Gamma Doppler",
+        "Seed": 561,
+        "Weapon ID": 509,
+        "Wear": 0.0021240525
+      },
+      {
+        "Item Name": "Huntsman Knife",
+        "Paint Kit": 568,
+        "Paint Kit Name": "Gamma Doppler",
+        "Seed": 349,
+        "Weapon ID": 509,
+        "Wear": 0.0006875008
+      },
+      {
+        "Item Name": "Huntsman Knife",
+        "Paint Kit": 1107,
+        "Paint Kit Name": "Lore",
+        "Seed": 288,
+        "Weapon ID": 509,
+        "Wear": 0.028255386
+      },
+      {
+        "Item Name": "Huntsman Knife",
+        "Paint Kit": 413,
+        "Paint Kit Name": "Marble Fade",
+        "Seed": 846,
+        "Weapon ID": 509,
+        "Wear": 0.004547152
+      },
+      {
+        "Item Name": "Huntsman Knife",
+        "Paint Kit": 40,
+        "Paint Kit Name": "Night",
+        "Seed": 548,
+        "Weapon ID": 509,
+        "Wear": 0.08715571
+      },
+      {
+        "Item Name": "Huntsman Knife",
+        "Paint Kit": 414,
+        "Paint Kit Name": "Rust Coat",
+        "Seed": 331,
+        "Weapon ID": 509,
+        "Wear": 0.4048743
+      },
+      {
+        "Item Name": "Huntsman Knife",
+        "Paint Kit": 72,
+        "Paint Kit Name": "Safari Mesh",
+        "Seed": 245,
+        "Weapon ID": 509,
+        "Wear": 0.069244064
+      },
+      {
+        "Item Name": "Huntsman Knife",
+        "Paint Kit": 175,
+        "Paint Kit Name": "Scorched",
+        "Seed": 970,
+        "Weapon ID": 509,
+        "Wear": 0.06692675
+      },
+      {
+        "Item Name": "Huntsman Knife",
+        "Paint Kit": 59,
+        "Paint Kit Name": "Slaughter",
+        "Seed": 231,
+        "Weapon ID": 509,
+        "Wear": 0.02071333
+      },
+      {
+        "Item Name": "Huntsman Knife",
+        "Paint Kit": 43,
+        "Paint Kit Name": "Stained",
+        "Seed": 459,
+        "Weapon ID": 509,
+        "Wear": 0.026059365
+      },
+      {
+        "Item Name": "Huntsman Knife",
+        "Paint Kit": 409,
+        "Paint Kit Name": "Tiger Tooth",
+        "Seed": 251,
+        "Weapon ID": 509,
+        "Wear": 0.005535288
+      },
+      {
+        "Item Name": "Huntsman Knife",
+        "Paint Kit": 620,
+        "Paint Kit Name": "Ultraviolet",
+        "Seed": 973,
+        "Weapon ID": 509,
+        "Wear": 0.06250855
+      },
+      {
+        "Item Name": "Huntsman Knife",
+        "Paint Kit": 143,
+        "Paint Kit Name": "Urban Masked",
+        "Seed": 872,
+        "Weapon ID": 509,
+        "Wear": 0.079955444
+      },
+      {
+        "Item Name": "Navaja Knife",
+        "Paint Kit": 0,
+        "Paint Kit Name": "",
+        "Seed": 17,
+        "Weapon ID": 520,
+        "Wear": 0.017203799
+      },
+      {
+        "Item Name": "Navaja Knife",
+        "Paint Kit": 42,
+        "Paint Kit Name": "Blue Steel",
+        "Seed": 747,
+        "Weapon ID": 520,
+        "Wear": 0.019097643
+      },
+      {
+        "Item Name": "Navaja Knife",
+        "Paint Kit": 77,
+        "Paint Kit Name": "Boreal Forest",
+        "Seed": 549,
+        "Weapon ID": 520,
+        "Wear": 0.09648803
+      },
+      {
+        "Item Name": "Navaja Knife",
+        "Paint Kit": 44,
+        "Paint Kit Name": "Case Hardened",
+        "Seed": 214,
+        "Weapon ID": 520,
+        "Wear": 0.054981925
+      },
+      {
+        "Item Name": "Navaja Knife",
+        "Paint Kit": 12,
+        "Paint Kit Name": "Crimson Web",
+        "Seed": 828,
+        "Weapon ID": 520,
+        "Wear": 0.07912334
+      },
+      {
+        "Item Name": "Navaja Knife",
+        "Paint Kit": 857,
+        "Paint Kit Name": "Damascus Steel",
+        "Seed": 113,
+        "Weapon ID": 520,
+        "Wear": 0.0055046612
+      },
+      {
+        "Item Name": "Navaja Knife",
+        "Paint Kit": 418,
+        "Paint Kit Name": "Doppler",
+        "Seed": 719,
+        "Weapon ID": 520,
+        "Wear": 0.0030341123
+      },
+      {
+        "Item Name": "Navaja Knife",
+        "Paint Kit": 417,
+        "Paint Kit Name": "Doppler",
+        "Seed": 131,
+        "Weapon ID": 520,
+        "Wear": 0.0018849054
+      },
+      {
+        "Item Name": "Navaja Knife",
+        "Paint Kit": 416,
+        "Paint Kit Name": "Doppler",
+        "Seed": 683,
+        "Weapon ID": 520,
+        "Wear": 0.0029298281
+      },
+      {
+        "Item Name": "Navaja Knife",
+        "Paint Kit": 415,
+        "Paint Kit Name": "Doppler",
+        "Seed": 483,
+        "Weapon ID": 520,
+        "Wear": 0.0022618333
+      },
+      {
+        "Item Name": "Navaja Knife",
+        "Paint Kit": 419,
+        "Paint Kit Name": "Doppler",
+        "Seed": 891,
+        "Weapon ID": 520,
+        "Wear": 0.0035059964
+      },
+      {
+        "Item Name": "Navaja Knife",
+        "Paint Kit": 420,
+        "Paint Kit Name": "Doppler",
+        "Seed": 260,
+        "Weapon ID": 520,
+        "Wear": 0.0006391455
+      },
+      {
+        "Item Name": "Navaja Knife",
+        "Paint Kit": 421,
+        "Paint Kit Name": "Doppler",
+        "Seed": 27,
+        "Weapon ID": 520,
+        "Wear": 0.004178915
+      },
+      {
+        "Item Name": "Navaja Knife",
+        "Paint Kit": 38,
+        "Paint Kit Name": "Fade",
+        "Seed": 702,
+        "Weapon ID": 520,
+        "Wear": 0.003485614
+      },
+      {
+        "Item Name": "Navaja Knife",
+        "Paint Kit": 5,
+        "Paint Kit Name": "Forest DDPAT",
+        "Seed": 345,
+        "Weapon ID": 520,
+        "Wear": 0.081360035
+      },
+      {
+        "Item Name": "Navaja Knife",
+        "Paint Kit": 413,
+        "Paint Kit Name": "Marble Fade",
+        "Seed": 164,
+        "Weapon ID": 520,
+        "Wear": 0.002753952
+      },
+      {
+        "Item Name": "Navaja Knife",
+        "Paint Kit": 735,
+        "Paint Kit Name": "Night Stripe",
+        "Seed": 943,
+        "Weapon ID": 520,
+        "Wear": 0.06259429
+      },
+      {
+        "Item Name": "Navaja Knife",
+        "Paint Kit": 414,
+        "Paint Kit Name": "Rust Coat",
+        "Seed": 361,
+        "Weapon ID": 520,
+        "Wear": 0.4031295
+      },
+      {
+        "Item Name": "Navaja Knife",
+        "Paint Kit": 72,
+        "Paint Kit Name": "Safari Mesh",
+        "Seed": 921,
+        "Weapon ID": 520,
+        "Wear": 0.07310582
+      },
+      {
+        "Item Name": "Navaja Knife",
+        "Paint Kit": 175,
+        "Paint Kit Name": "Scorched",
+        "Seed": 450,
+        "Weapon ID": 520,
+        "Wear": 0.08448261
+      },
+      {
+        "Item Name": "Navaja Knife",
+        "Paint Kit": 59,
+        "Paint Kit Name": "Slaughter",
+        "Seed": 228,
+        "Weapon ID": 520,
+        "Wear": 0.010092077
+      },
+      {
+        "Item Name": "Navaja Knife",
+        "Paint Kit": 43,
+        "Paint Kit Name": "Stained",
+        "Seed": 644,
+        "Weapon ID": 520,
+        "Wear": 0.034827452
+      },
+      {
+        "Item Name": "Navaja Knife",
+        "Paint Kit": 409,
+        "Paint Kit Name": "Tiger Tooth",
+        "Seed": 522,
+        "Weapon ID": 520,
+        "Wear": 0.0026861653
+      },
+      {
+        "Item Name": "Navaja Knife",
+        "Paint Kit": 98,
+        "Paint Kit Name": "Ultraviolet",
+        "Seed": 490,
+        "Weapon ID": 520,
+        "Wear": 0.06720646
+      },
+      {
+        "Item Name": "Navaja Knife",
+        "Paint Kit": 143,
+        "Paint Kit Name": "Urban Masked",
+        "Seed": 69,
+        "Weapon ID": 520,
+        "Wear": 0.06284245
+      },
+      {
+        "Item Name": "Nomad Knife",
+        "Paint Kit": 0,
+        "Paint Kit Name": "",
+        "Seed": 50,
+        "Weapon ID": 521,
+        "Wear": 0.06980683
+      },
+      {
+        "Item Name": "Nomad Knife",
+        "Paint Kit": 42,
+        "Paint Kit Name": "Blue Steel",
+        "Seed": 37,
+        "Weapon ID": 521,
+        "Wear": 0.028446183
+      },
+      {
+        "Item Name": "Nomad Knife",
+        "Paint Kit": 77,
+        "Paint Kit Name": "Boreal Forest",
+        "Seed": 784,
+        "Weapon ID": 521,
+        "Wear": 0.06986824
+      },
+      {
+        "Item Name": "Nomad Knife",
+        "Paint Kit": 44,
+        "Paint Kit Name": "Case Hardened",
+        "Seed": 15,
+        "Weapon ID": 521,
+        "Wear": 0.018621607
+      },
+      {
+        "Item Name": "Nomad Knife",
+        "Paint Kit": 12,
+        "Paint Kit Name": "Crimson Web",
+        "Seed": 882,
+        "Weapon ID": 521,
+        "Wear": 0.09142489
+      },
+      {
+        "Item Name": "Nomad Knife",
+        "Paint Kit": 38,
+        "Paint Kit Name": "Fade",
+        "Seed": 48,
+        "Weapon ID": 521,
+        "Wear": 0.0055236886
+      },
+      {
+        "Item Name": "Nomad Knife",
+        "Paint Kit": 5,
+        "Paint Kit Name": "Forest DDPAT",
+        "Seed": 572,
+        "Weapon ID": 521,
+        "Wear": 0.09963158
+      },
+      {
+        "Item Name": "Nomad Knife",
+        "Paint Kit": 735,
+        "Paint Kit Name": "Night Stripe",
+        "Seed": 900,
+        "Weapon ID": 521,
+        "Wear": 0.10213305
+      },
+      {
+        "Item Name": "Nomad Knife",
+        "Paint Kit": 72,
+        "Paint Kit Name": "Safari Mesh",
+        "Seed": 80,
+        "Weapon ID": 521,
+        "Wear": 0.10444556
+      },
+      {
+        "Item Name": "Nomad Knife",
+        "Paint Kit": 175,
+        "Paint Kit Name": "Scorched",
+        "Seed": 612,
+        "Weapon ID": 521,
+        "Wear": 0.11088343
+      },
+      {
+        "Item Name": "Nomad Knife",
+        "Paint Kit": 59,
+        "Paint Kit Name": "Slaughter",
+        "Seed": 196,
+        "Weapon ID": 521,
+        "Wear": 0.015147337
+      },
+      {
+        "Item Name": "Nomad Knife",
+        "Paint Kit": 43,
+        "Paint Kit Name": "Stained",
+        "Seed": 543,
+        "Weapon ID": 521,
+        "Wear": 0.014666489
+      },
+      {
+        "Item Name": "Nomad Knife",
+        "Paint Kit": 143,
+        "Paint Kit Name": "Urban Masked",
+        "Seed": 10,
+        "Weapon ID": 521,
+        "Wear": 0.10379861
+      },
+      {
+        "Item Name": "Paracord Knife",
+        "Paint Kit": 0,
+        "Paint Kit Name": "",
+        "Seed": 933,
+        "Weapon ID": 517,
+        "Wear": 0.020917285
+      },
+      {
+        "Item Name": "Paracord Knife",
+        "Paint Kit": 42,
+        "Paint Kit Name": "Blue Steel",
+        "Seed": 326,
+        "Weapon ID": 517,
+        "Wear": 0.038114794
+      },
+      {
+        "Item Name": "Paracord Knife",
+        "Paint Kit": 77,
+        "Paint Kit Name": "Boreal Forest",
+        "Seed": 727,
+        "Weapon ID": 517,
+        "Wear": 0.08409918
+      },
+      {
+        "Item Name": "Paracord Knife",
+        "Paint Kit": 44,
+        "Paint Kit Name": "Case Hardened",
+        "Seed": 196,
+        "Weapon ID": 517,
+        "Wear": 0.018974716
+      },
+      {
+        "Item Name": "Paracord Knife",
+        "Paint Kit": 12,
+        "Paint Kit Name": "Crimson Web",
+        "Seed": 130,
+        "Weapon ID": 517,
+        "Wear": 0.09577434
+      },
+      {
+        "Item Name": "Paracord Knife",
+        "Paint Kit": 38,
+        "Paint Kit Name": "Fade",
+        "Seed": 516,
+        "Weapon ID": 517,
+        "Wear": 0.0007195827
+      },
+      {
+        "Item Name": "Paracord Knife",
+        "Paint Kit": 5,
+        "Paint Kit Name": "Forest DDPAT",
+        "Seed": 560,
+        "Weapon ID": 517,
+        "Wear": 0.10663517
+      },
+      {
+        "Item Name": "Paracord Knife",
+        "Paint Kit": 735,
+        "Paint Kit Name": "Night Stripe",
+        "Seed": 111,
+        "Weapon ID": 517,
+        "Wear": 0.08651481
+      },
+      {
+        "Item Name": "Paracord Knife",
+        "Paint Kit": 72,
+        "Paint Kit Name": "Safari Mesh",
+        "Seed": 735,
+        "Weapon ID": 517,
+        "Wear": 0.08358843
+      },
+      {
+        "Item Name": "Paracord Knife",
+        "Paint Kit": 175,
+        "Paint Kit Name": "Scorched",
+        "Seed": 90,
+        "Weapon ID": 517,
+        "Wear": 0.08220995
+      },
+      {
+        "Item Name": "Paracord Knife",
+        "Paint Kit": 59,
+        "Paint Kit Name": "Slaughter",
+        "Seed": 80,
+        "Weapon ID": 517,
+        "Wear": 0.026053734
+      },
+      {
+        "Item Name": "Paracord Knife",
+        "Paint Kit": 43,
+        "Paint Kit Name": "Stained",
+        "Seed": 742,
+        "Weapon ID": 517,
+        "Wear": 0.016241964
+      },
+      {
+        "Item Name": "Paracord Knife",
+        "Paint Kit": 143,
+        "Paint Kit Name": "Urban Masked",
+        "Seed": 67,
+        "Weapon ID": 517,
+        "Wear": 0.08671036
+      },
+      {
+        "Item Name": "Skeleton Knife",
+        "Paint Kit": 0,
+        "Paint Kit Name": "",
+        "Seed": 735,
+        "Weapon ID": 525,
+        "Wear": 0.06856502
+      },
+      {
+        "Item Name": "Skeleton Knife",
+        "Paint Kit": 42,
+        "Paint Kit Name": "Blue Steel",
+        "Seed": 255,
+        "Weapon ID": 525,
+        "Wear": 0.03990137
+      },
+      {
+        "Item Name": "Skeleton Knife",
+        "Paint Kit": 77,
+        "Paint Kit Name": "Boreal Forest",
+        "Seed": 359,
+        "Weapon ID": 525,
+        "Wear": 0.104768895
+      },
+      {
+        "Item Name": "Skeleton Knife",
+        "Paint Kit": 44,
+        "Paint Kit Name": "Case Hardened",
+        "Seed": 198,
+        "Weapon ID": 525,
+        "Wear": 0.013989382
+      },
+      {
+        "Item Name": "Skeleton Knife",
+        "Paint Kit": 12,
+        "Paint Kit Name": "Crimson Web",
+        "Seed": 248,
+        "Weapon ID": 525,
+        "Wear": 0.089410216
+      },
+      {
+        "Item Name": "Skeleton Knife",
+        "Paint Kit": 38,
+        "Paint Kit Name": "Fade",
+        "Seed": 259,
+        "Weapon ID": 525,
+        "Wear": 0.0012680436
+      },
+      {
+        "Item Name": "Skeleton Knife",
+        "Paint Kit": 5,
+        "Paint Kit Name": "Forest DDPAT",
+        "Seed": 253,
+        "Weapon ID": 525,
+        "Wear": 0.08614432
+      },
+      {
+        "Item Name": "Skeleton Knife",
+        "Paint Kit": 735,
+        "Paint Kit Name": "Night Stripe",
+        "Seed": 460,
+        "Weapon ID": 525,
+        "Wear": 0.10683669
+      },
+      {
+        "Item Name": "Skeleton Knife",
+        "Paint Kit": 72,
+        "Paint Kit Name": "Safari Mesh",
+        "Seed": 570,
+        "Weapon ID": 525,
+        "Wear": 0.105918795
+      },
+      {
+        "Item Name": "Skeleton Knife",
+        "Paint Kit": 175,
+        "Paint Kit Name": "Scorched",
+        "Seed": 672,
+        "Weapon ID": 525,
+        "Wear": 0.0744949
+      },
+      {
+        "Item Name": "Skeleton Knife",
+        "Paint Kit": 59,
+        "Paint Kit Name": "Slaughter",
+        "Seed": 380,
+        "Weapon ID": 525,
+        "Wear": 0.026643695
+      },
+      {
+        "Item Name": "Skeleton Knife",
+        "Paint Kit": 43,
+        "Paint Kit Name": "Stained",
+        "Seed": 186,
+        "Weapon ID": 525,
+        "Wear": 0.046005663
+      },
+      {
+        "Item Name": "Skeleton Knife",
+        "Paint Kit": 143,
+        "Paint Kit Name": "Urban Masked",
+        "Seed": 129,
+        "Weapon ID": 525,
+        "Wear": 0.088884145
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 373,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Stiletto Knife",
+        "Paint Kit": 0,
+        "Paint Kit Name": "",
+        "Seed": 557,
+        "Weapon ID": 522,
+        "Wear": 0.025494128
+      },
+      {
+        "Item Name": "Stiletto Knife",
+        "Paint Kit": 42,
+        "Paint Kit Name": "Blue Steel",
+        "Seed": 669,
+        "Weapon ID": 522,
+        "Wear": 0.029279865
+      },
+      {
+        "Item Name": "Stiletto Knife",
+        "Paint Kit": 77,
+        "Paint Kit Name": "Boreal Forest",
+        "Seed": 644,
+        "Weapon ID": 522,
+        "Wear": 0.06252375
+      },
+      {
+        "Item Name": "Stiletto Knife",
+        "Paint Kit": 44,
+        "Paint Kit Name": "Case Hardened",
+        "Seed": 683,
+        "Weapon ID": 522,
+        "Wear": 0.005983383
+      },
+      {
+        "Item Name": "Stiletto Knife",
+        "Paint Kit": 12,
+        "Paint Kit Name": "Crimson Web",
+        "Seed": 275,
+        "Weapon ID": 522,
+        "Wear": 0.09447084
+      },
+      {
+        "Item Name": "Stiletto Knife",
+        "Paint Kit": 857,
+        "Paint Kit Name": "Damascus Steel",
+        "Seed": 823,
+        "Weapon ID": 522,
+        "Wear": 0.025887812
+      },
+      {
+        "Item Name": "Stiletto Knife",
+        "Paint Kit": 421,
+        "Paint Kit Name": "Doppler",
+        "Seed": 127,
+        "Weapon ID": 522,
+        "Wear": 0.00071439665
+      },
+      {
+        "Item Name": "Stiletto Knife",
+        "Paint Kit": 416,
+        "Paint Kit Name": "Doppler",
+        "Seed": 724,
+        "Weapon ID": 522,
+        "Wear": 0.0044127223
+      },
+      {
+        "Item Name": "Stiletto Knife",
+        "Paint Kit": 420,
+        "Paint Kit Name": "Doppler",
+        "Seed": 375,
+        "Weapon ID": 522,
+        "Wear": 0.00081163703
+      },
+      {
+        "Item Name": "Stiletto Knife",
+        "Paint Kit": 418,
+        "Paint Kit Name": "Doppler",
+        "Seed": 366,
+        "Weapon ID": 522,
+        "Wear": 0.0017480382
+      },
+      {
+        "Item Name": "Stiletto Knife",
+        "Paint Kit": 417,
+        "Paint Kit Name": "Doppler",
+        "Seed": 438,
+        "Weapon ID": 522,
+        "Wear": 0.0013440758
+      },
+      {
+        "Item Name": "Stiletto Knife",
+        "Paint Kit": 419,
+        "Paint Kit Name": "Doppler",
+        "Seed": 61,
+        "Weapon ID": 522,
+        "Wear": 0.0042212512
+      },
+      {
+        "Item Name": "Stiletto Knife",
+        "Paint Kit": 415,
+        "Paint Kit Name": "Doppler",
+        "Seed": 473,
+        "Weapon ID": 522,
+        "Wear": 0.004042512
+      },
+      {
+        "Item Name": "Stiletto Knife",
+        "Paint Kit": 38,
+        "Paint Kit Name": "Fade",
+        "Seed": 526,
+        "Weapon ID": 522,
+        "Wear": 0.0033570242
+      },
+      {
+        "Item Name": "Stiletto Knife",
+        "Paint Kit": 5,
+        "Paint Kit Name": "Forest DDPAT",
+        "Seed": 799,
+        "Weapon ID": 522,
+        "Wear": 0.073377185
+      },
+      {
+        "Item Name": "Stiletto Knife",
+        "Paint Kit": 413,
+        "Paint Kit Name": "Marble Fade",
+        "Seed": 887,
+        "Weapon ID": 522,
+        "Wear": 0.0020920588
+      },
+      {
+        "Item Name": "Stiletto Knife",
+        "Paint Kit": 735,
+        "Paint Kit Name": "Night Stripe",
+        "Seed": 110,
+        "Weapon ID": 522,
+        "Wear": 0.087935105
+      },
+      {
+        "Item Name": "Stiletto Knife",
+        "Paint Kit": 414,
+        "Paint Kit Name": "Rust Coat",
+        "Seed": 566,
+        "Weapon ID": 522,
+        "Wear": 0.41720042
+      },
+      {
+        "Item Name": "Stiletto Knife",
+        "Paint Kit": 72,
+        "Paint Kit Name": "Safari Mesh",
+        "Seed": 481,
+        "Weapon ID": 522,
+        "Wear": 0.095448434
+      },
+      {
+        "Item Name": "Stiletto Knife",
+        "Paint Kit": 175,
+        "Paint Kit Name": "Scorched",
+        "Seed": 806,
+        "Weapon ID": 522,
+        "Wear": 0.07917854
+      },
+      {
+        "Item Name": "Stiletto Knife",
+        "Paint Kit": 59,
+        "Paint Kit Name": "Slaughter",
+        "Seed": 549,
+        "Weapon ID": 522,
+        "Wear": 0.021454236
+      },
+      {
+        "Item Name": "Stiletto Knife",
+        "Paint Kit": 43,
+        "Paint Kit Name": "Stained",
+        "Seed": 172,
+        "Weapon ID": 522,
+        "Wear": 0.013006216
+      },
+      {
+        "Item Name": "Stiletto Knife",
+        "Paint Kit": 409,
+        "Paint Kit Name": "Tiger Tooth",
+        "Seed": 33,
+        "Weapon ID": 522,
+        "Wear": 0.005487949
+      },
+      {
+        "Item Name": "Stiletto Knife",
+        "Paint Kit": 98,
+        "Paint Kit Name": "Ultraviolet",
+        "Seed": 724,
+        "Weapon ID": 522,
+        "Wear": 0.11003418
+      },
+      {
+        "Item Name": "Stiletto Knife",
+        "Paint Kit": 143,
+        "Paint Kit Name": "Urban Masked",
+        "Seed": 823,
+        "Weapon ID": 522,
+        "Wear": 0.08618362
+      },
+      {
+        "Item Name": "Survival Knife",
+        "Paint Kit": 0,
+        "Paint Kit Name": "",
+        "Seed": 79,
+        "Weapon ID": 518,
+        "Wear": 0.06162837
+      },
+      {
+        "Item Name": "Survival Knife",
+        "Paint Kit": 42,
+        "Paint Kit Name": "Blue Steel",
+        "Seed": 930,
+        "Weapon ID": 518,
+        "Wear": 0.06658225
+      },
+      {
+        "Item Name": "Survival Knife",
+        "Paint Kit": 77,
+        "Paint Kit Name": "Boreal Forest",
+        "Seed": 451,
+        "Weapon ID": 518,
+        "Wear": 0.100760676
+      },
+      {
+        "Item Name": "Survival Knife",
+        "Paint Kit": 44,
+        "Paint Kit Name": "Case Hardened",
+        "Seed": 227,
+        "Weapon ID": 518,
+        "Wear": 0.060172528
+      },
+      {
+        "Item Name": "Survival Knife",
+        "Paint Kit": 12,
+        "Paint Kit Name": "Crimson Web",
+        "Seed": 614,
+        "Weapon ID": 518,
+        "Wear": 0.10359314
+      },
+      {
+        "Item Name": "Survival Knife",
+        "Paint Kit": 38,
+        "Paint Kit Name": "Fade",
+        "Seed": 879,
+        "Weapon ID": 518,
+        "Wear": 0.0018744874
+      },
+      {
+        "Item Name": "Survival Knife",
+        "Paint Kit": 5,
+        "Paint Kit Name": "Forest DDPAT",
+        "Seed": 161,
+        "Weapon ID": 518,
+        "Wear": 0.09163185
+      },
+      {
+        "Item Name": "Survival Knife",
+        "Paint Kit": 735,
+        "Paint Kit Name": "Night Stripe",
+        "Seed": 750,
+        "Weapon ID": 518,
+        "Wear": 0.11089589
+      },
+      {
+        "Item Name": "Survival Knife",
+        "Paint Kit": 72,
+        "Paint Kit Name": "Safari Mesh",
+        "Seed": 182,
+        "Weapon ID": 518,
+        "Wear": 0.074020855
+      },
+      {
+        "Item Name": "Survival Knife",
+        "Paint Kit": 175,
+        "Paint Kit Name": "Scorched",
+        "Seed": 475,
+        "Weapon ID": 518,
+        "Wear": 0.08153643
+      },
+      {
+        "Item Name": "Survival Knife",
+        "Paint Kit": 59,
+        "Paint Kit Name": "Slaughter",
+        "Seed": 318,
+        "Weapon ID": 518,
+        "Wear": 0.019502034
+      },
+      {
+        "Item Name": "Survival Knife",
+        "Paint Kit": 43,
+        "Paint Kit Name": "Stained",
+        "Seed": 662,
+        "Weapon ID": 518,
+        "Wear": 0.05538111
+      },
+      {
+        "Item Name": "Survival Knife",
+        "Paint Kit": 143,
+        "Paint Kit Name": "Urban Masked",
+        "Seed": 713,
+        "Weapon ID": 518,
+        "Wear": 0.103175595
+      },
+      {
+        "Item Name": "Talon Knife",
+        "Paint Kit": 0,
+        "Paint Kit Name": "",
+        "Seed": 259,
+        "Weapon ID": 523,
+        "Wear": 0.04005943
+      },
+      {
+        "Item Name": "Talon Knife",
+        "Paint Kit": 42,
+        "Paint Kit Name": "Blue Steel",
+        "Seed": 238,
+        "Weapon ID": 523,
+        "Wear": 0.035594925
+      },
+      {
+        "Item Name": "Talon Knife",
+        "Paint Kit": 77,
+        "Paint Kit Name": "Boreal Forest",
+        "Seed": 703,
+        "Weapon ID": 523,
+        "Wear": 0.098726965
+      },
+      {
+        "Item Name": "Talon Knife",
+        "Paint Kit": 44,
+        "Paint Kit Name": "Case Hardened",
+        "Seed": 992,
+        "Weapon ID": 523,
+        "Wear": 0.05165406
+      },
+      {
+        "Item Name": "Talon Knife",
+        "Paint Kit": 12,
+        "Paint Kit Name": "Crimson Web",
+        "Seed": 307,
+        "Weapon ID": 523,
+        "Wear": 0.0941003
+      },
+      {
+        "Item Name": "Talon Knife",
+        "Paint Kit": 858,
+        "Paint Kit Name": "Damascus Steel",
+        "Seed": 488,
+        "Weapon ID": 523,
+        "Wear": 0.024827791
+      },
+      {
+        "Item Name": "Talon Knife",
+        "Paint Kit": 415,
+        "Paint Kit Name": "Doppler",
+        "Seed": 87,
+        "Weapon ID": 523,
+        "Wear": 0.00024289156
+      },
+      {
+        "Item Name": "Talon Knife",
+        "Paint Kit": 855,
+        "Paint Kit Name": "Doppler",
+        "Seed": 151,
+        "Weapon ID": 523,
+        "Wear": 0.0030043374
+      },
+      {
+        "Item Name": "Talon Knife",
+        "Paint Kit": 416,
+        "Paint Kit Name": "Doppler",
+        "Seed": 79,
+        "Weapon ID": 523,
+        "Wear": 0.0041931756
+      },
+      {
+        "Item Name": "Talon Knife",
+        "Paint Kit": 417,
+        "Paint Kit Name": "Doppler",
+        "Seed": 2,
+        "Weapon ID": 523,
+        "Wear": 0.0011574037
+      },
+      {
+        "Item Name": "Talon Knife",
+        "Paint Kit": 854,
+        "Paint Kit Name": "Doppler",
+        "Seed": 973,
+        "Weapon ID": 523,
+        "Wear": 0.0055188676
+      },
+      {
+        "Item Name": "Talon Knife",
+        "Paint Kit": 853,
+        "Paint Kit Name": "Doppler",
+        "Seed": 614,
+        "Weapon ID": 523,
+        "Wear": 0.005390391
+      },
+      {
+        "Item Name": "Talon Knife",
+        "Paint Kit": 852,
+        "Paint Kit Name": "Doppler",
+        "Seed": 654,
+        "Weapon ID": 523,
+        "Wear": 0.0011848852
+      },
+      {
+        "Item Name": "Talon Knife",
+        "Paint Kit": 38,
+        "Paint Kit Name": "Fade",
+        "Seed": 230,
+        "Weapon ID": 523,
+        "Wear": 0.001511783
+      },
+      {
+        "Item Name": "Talon Knife",
+        "Paint Kit": 5,
+        "Paint Kit Name": "Forest DDPAT",
+        "Seed": 745,
+        "Weapon ID": 523,
+        "Wear": 0.08519835
+      },
+      {
+        "Item Name": "Talon Knife",
+        "Paint Kit": 856,
+        "Paint Kit Name": "Marble Fade",
+        "Seed": 982,
+        "Weapon ID": 523,
+        "Wear": 0.002142004
+      },
+      {
+        "Item Name": "Talon Knife",
+        "Paint Kit": 735,
+        "Paint Kit Name": "Night Stripe",
+        "Seed": 278,
+        "Weapon ID": 523,
+        "Wear": 0.06329083
+      },
+      {
+        "Item Name": "Talon Knife",
+        "Paint Kit": 414,
+        "Paint Kit Name": "Rust Coat",
+        "Seed": 119,
+        "Weapon ID": 523,
+        "Wear": 0.4266144
+      },
+      {
+        "Item Name": "Talon Knife",
+        "Paint Kit": 72,
+        "Paint Kit Name": "Safari Mesh",
+        "Seed": 306,
+        "Weapon ID": 523,
+        "Wear": 0.0963677
+      },
+      {
+        "Item Name": "Talon Knife",
+        "Paint Kit": 175,
+        "Paint Kit Name": "Scorched",
+        "Seed": 133,
+        "Weapon ID": 523,
+        "Wear": 0.09241128
+      },
+      {
+        "Item Name": "Talon Knife",
+        "Paint Kit": 59,
+        "Paint Kit Name": "Slaughter",
+        "Seed": 259,
+        "Weapon ID": 523,
+        "Wear": 0.013006238
+      },
+      {
+        "Item Name": "Talon Knife",
+        "Paint Kit": 43,
+        "Paint Kit Name": "Stained",
+        "Seed": 513,
+        "Weapon ID": 523,
+        "Wear": 0.0005139526
+      },
+      {
+        "Item Name": "Talon Knife",
+        "Paint Kit": 409,
+        "Paint Kit Name": "Tiger Tooth",
+        "Seed": 860,
+        "Weapon ID": 523,
+        "Wear": 0.0024918339
+      },
+      {
+        "Item Name": "Talon Knife",
+        "Paint Kit": 98,
+        "Paint Kit Name": "Ultraviolet",
+        "Seed": 843,
+        "Weapon ID": 523,
+        "Wear": 0.10312594
+      },
+      {
+        "Item Name": "Talon Knife",
+        "Paint Kit": 143,
+        "Paint Kit Name": "Urban Masked",
+        "Seed": 202,
+        "Weapon ID": 523,
+        "Wear": 0.09425308
+      },
+      {
+        "Item Name": "Ursus Knife",
+        "Paint Kit": 0,
+        "Paint Kit Name": "",
+        "Seed": 256,
+        "Weapon ID": 519,
+        "Wear": 0.009878321
+      },
+      {
+        "Item Name": "Ursus Knife",
+        "Paint Kit": 42,
+        "Paint Kit Name": "Blue Steel",
+        "Seed": 203,
+        "Weapon ID": 519,
+        "Wear": 0.048593003
+      },
+      {
+        "Item Name": "Ursus Knife",
+        "Paint Kit": 77,
+        "Paint Kit Name": "Boreal Forest",
+        "Seed": 716,
+        "Weapon ID": 519,
+        "Wear": 0.10986218
+      },
+      {
+        "Item Name": "Ursus Knife",
+        "Paint Kit": 44,
+        "Paint Kit Name": "Case Hardened",
+        "Seed": 110,
+        "Weapon ID": 519,
+        "Wear": 0.046733364
+      },
+      {
+        "Item Name": "Ursus Knife",
+        "Paint Kit": 12,
+        "Paint Kit Name": "Crimson Web",
+        "Seed": 241,
+        "Weapon ID": 519,
+        "Wear": 0.08557406
+      },
+      {
+        "Item Name": "Ursus Knife",
+        "Paint Kit": 857,
+        "Paint Kit Name": "Damascus Steel",
+        "Seed": 877,
+        "Weapon ID": 519,
+        "Wear": 0.016599197
+      },
+      {
+        "Item Name": "Ursus Knife",
+        "Paint Kit": 419,
+        "Paint Kit Name": "Doppler",
+        "Seed": 260,
+        "Weapon ID": 519,
+        "Wear": 3.2368327e-05
+      },
+      {
+        "Item Name": "Ursus Knife",
+        "Paint Kit": 420,
+        "Paint Kit Name": "Doppler",
+        "Seed": 698,
+        "Weapon ID": 519,
+        "Wear": 0.0041333702
+      },
+      {
+        "Item Name": "Ursus Knife",
+        "Paint Kit": 421,
+        "Paint Kit Name": "Doppler",
+        "Seed": 493,
+        "Weapon ID": 519,
+        "Wear": 0.0047311466
+      },
+      {
+        "Item Name": "Ursus Knife",
+        "Paint Kit": 418,
+        "Paint Kit Name": "Doppler",
+        "Seed": 615,
+        "Weapon ID": 519,
+        "Wear": 0.0025663967
+      },
+      {
+        "Item Name": "Ursus Knife",
+        "Paint Kit": 417,
+        "Paint Kit Name": "Doppler",
+        "Seed": 485,
+        "Weapon ID": 519,
+        "Wear": 0.005117284
+      },
+      {
+        "Item Name": "Ursus Knife",
+        "Paint Kit": 416,
+        "Paint Kit Name": "Doppler",
+        "Seed": 128,
+        "Weapon ID": 519,
+        "Wear": 0.003969451
+      },
+      {
+        "Item Name": "Ursus Knife",
+        "Paint Kit": 415,
+        "Paint Kit Name": "Doppler",
+        "Seed": 719,
+        "Weapon ID": 519,
+        "Wear": 0.0040126964
+      },
+      {
+        "Item Name": "Ursus Knife",
+        "Paint Kit": 38,
+        "Paint Kit Name": "Fade",
+        "Seed": 295,
+        "Weapon ID": 519,
+        "Wear": 0.0024503085
+      },
+      {
+        "Item Name": "Ursus Knife",
+        "Paint Kit": 5,
+        "Paint Kit Name": "Forest DDPAT",
+        "Seed": 726,
+        "Weapon ID": 519,
+        "Wear": 0.069440156
+      },
+      {
+        "Item Name": "Ursus Knife",
+        "Paint Kit": 413,
+        "Paint Kit Name": "Marble Fade",
+        "Seed": 93,
+        "Weapon ID": 519,
+        "Wear": 0.004473169
+      },
+      {
+        "Item Name": "Ursus Knife",
+        "Paint Kit": 735,
+        "Paint Kit Name": "Night Stripe",
+        "Seed": 855,
+        "Weapon ID": 519,
+        "Wear": 0.11002626
+      },
+      {
+        "Item Name": "Ursus Knife",
+        "Paint Kit": 414,
+        "Paint Kit Name": "Rust Coat",
+        "Seed": 118,
+        "Weapon ID": 519,
+        "Wear": 0.40000075
+      },
+      {
+        "Item Name": "Ursus Knife",
+        "Paint Kit": 72,
+        "Paint Kit Name": "Safari Mesh",
+        "Seed": 212,
+        "Weapon ID": 519,
+        "Wear": 0.079558425
+      },
+      {
+        "Item Name": "Ursus Knife",
+        "Paint Kit": 175,
+        "Paint Kit Name": "Scorched",
+        "Seed": 528,
+        "Weapon ID": 519,
+        "Wear": 0.0795672
+      },
+      {
+        "Item Name": "Ursus Knife",
+        "Paint Kit": 59,
+        "Paint Kit Name": "Slaughter",
+        "Seed": 967,
+        "Weapon ID": 519,
+        "Wear": 0.017792618
+      },
+      {
+        "Item Name": "Ursus Knife",
+        "Paint Kit": 43,
+        "Paint Kit Name": "Stained",
+        "Seed": 563,
+        "Weapon ID": 519,
+        "Wear": 0.035826437
+      },
+      {
+        "Item Name": "Ursus Knife",
+        "Paint Kit": 409,
+        "Paint Kit Name": "Tiger Tooth",
+        "Seed": 361,
+        "Weapon ID": 519,
+        "Wear": 0.0009263332
+      },
+      {
+        "Item Name": "Ursus Knife",
+        "Paint Kit": 98,
+        "Paint Kit Name": "Ultraviolet",
+        "Seed": 74,
+        "Weapon ID": 519,
+        "Wear": 0.098992094
+      },
+      {
+        "Item Name": "Ursus Knife",
+        "Paint Kit": 143,
+        "Paint Kit Name": "Urban Masked",
+        "Seed": 723,
+        "Weapon ID": 519,
+        "Wear": 0.08634793
+      },
+      {
+        "Item Name": "M9 Bayonet",
+        "Paint Kit": 568,
+        "Paint Kit Name": "Gamma Doppler",
+        "Seed": 308,
+        "Weapon ID": 508,
+        "Wear": 0.003415099
+      },
+      {
+        "Item Name": "Desert Eagle",
+        "Paint Kit": 470,
+        "Paint Kit Name": "Sunset Storm 弐",
+        "Seed": 204,
+        "Weapon ID": 1,
+        "Wear": 0.024281297
+      },
+      {
+        "Item Name": "UMP-45",
+        "Paint Kit": 362,
+        "Paint Kit Name": "Labyrinth",
+        "Seed": 159,
+        "Tradable After Date": 1670482800,
+        "Weapon ID": 24,
+        "Wear": 0.056654155
+      },
+      {
+        "Item Name": "Operation Breakout Challenge Coin",
+        "Weapon ID": 1028
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 2181,
+        "Weapon ID": 1209
+      }
+    ],
+    "Version": 4
+  },
+  "Misc": {
+    "Bomb timer": {
+      "Color": [
+        0.9854369,
+        0.42574704,
+        0.42574704
+      ],
+      "Enabled": true
+    },
+    "Bunny hop": true,
+    "Disable model occlusion": true,
+    "Fix animation LOD": true,
+    "Fix movement": true,
+    "Fix tablet signal": true,
+    "Grenade predict": true,
+    "Kill sound": 2,
+    "Noscope crosshair": {
+      "Alpha": 0.7037037,
+      "Color": "#ffffff",
+      "Enabled": true,
+      "Rainbow": true,
+      "Rainbow Speed": 1.2199994,
+      "Thickness": 12.700012
+    },
+    "Preserve Killfeed": {
+      "Enabled": true,
+      "Only Headshots": true
+    },
+    "Radar hack": true,
+    "Recoil crosshair": {
+      "Alpha": 0.8201058,
+      "Color": "#ffffff",
+      "Enabled": true,
+      "Rainbow": true,
+      "Rainbow Speed": 0.88999975,
+      "Thickness": 11.900009
+    },
+    "Reportbot": {
+      "Abusive Communications": true,
+      "Griefing": true,
+      "Rounds": 9
+    },
+    "Reveal ranks": true
+  },
+  "Sound": {
+    "Players": [
+      {
+        "Headshot volume": 62,
+        "Weapon volume": 78
+      },
+      null,
+      {
+        "Footstep volume": 200,
+        "Headshot volume": 66,
+        "Master volume": 144,
+        "Weapon volume": 60
+      }
+    ]
+  },
+  "Style": {
+    "Colors": {
+      "Border": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "BorderShadow": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Button": [
+        0.35,
+        0.4,
+        0.61,
+        0.62
+      ],
+      "ButtonActive": [
+        0.46,
+        0.54,
+        0.8,
+        1.0
+      ],
+      "ButtonHovered": [
+        0.4,
+        0.48,
+        0.71,
+        0.79
+      ],
+      "CheckMark": [
+        0.9,
+        0.9,
+        0.9,
+        0.5
+      ],
+      "ChildBg": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "DragDropTarget": [
+        1.0,
+        1.0,
+        0.0,
+        0.9
+      ],
+      "FrameBg": [
+        0.43,
+        0.43,
+        0.43,
+        0.39
+      ],
+      "FrameBgActive": [
+        0.42,
+        0.41,
+        0.64,
+        0.69
+      ],
+      "FrameBgHovered": [
+        0.47,
+        0.47,
+        0.69,
+        0.4
+      ],
+      "Header": [
+        0.4,
+        0.4,
+        0.9,
+        0.45
+      ],
+      "HeaderActive": [
+        0.53,
+        0.53,
+        0.87,
+        0.8
+      ],
+      "HeaderHovered": [
+        0.45,
+        0.45,
+        0.9,
+        0.8
+      ],
+      "MenuBarBg": [
+        0.4,
+        0.4,
+        0.55,
+        0.8
+      ],
+      "ModalWindowDimBg": [
+        0.2,
+        0.2,
+        0.2,
+        0.35
+      ],
+      "NavHighlight": [
+        0.45,
+        0.45,
+        0.9,
+        0.8
+      ],
+      "NavWindowingDimBg": [
+        0.8,
+        0.8,
+        0.8,
+        0.2
+      ],
+      "NavWindowingHighlight": [
+        1.0,
+        1.0,
+        1.0,
+        0.7
+      ],
+      "PlotHistogram": [
+        0.9,
+        0.7,
+        0.0,
+        1.0
+      ],
+      "PlotHistogramHovered": [
+        1.0,
+        0.6,
+        0.0,
+        1.0
+      ],
+      "PlotLines": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "PlotLinesHovered": [
+        0.9,
+        0.7,
+        0.0,
+        1.0
+      ],
+      "PopupBg": [
+        0.11,
+        0.11,
+        0.14,
+        0.92
+      ],
+      "ResizeGrip": [
+        1.0,
+        1.0,
+        1.0,
+        0.1
+      ],
+      "ResizeGripActive": [
+        0.78,
+        0.82,
+        1.0,
+        0.9
+      ],
+      "ResizeGripHovered": [
+        0.78,
+        0.82,
+        1.0,
+        0.6
+      ],
+      "ScrollbarBg": [
+        0.2,
+        0.25,
+        0.3,
+        0.6
+      ],
+      "ScrollbarGrab": [
+        0.4,
+        0.4,
+        0.8,
+        0.3
+      ],
+      "ScrollbarGrabActive": [
+        0.41,
+        0.39,
+        0.8,
+        0.6
+      ],
+      "ScrollbarGrabHovered": [
+        0.4,
+        0.4,
+        0.8,
+        0.4
+      ],
+      "Separator": [
+        0.5,
+        0.5,
+        0.5,
+        0.6
+      ],
+      "SeparatorActive": [
+        0.7,
+        0.7,
+        0.9,
+        1.0
+      ],
+      "SeparatorHovered": [
+        0.6,
+        0.6,
+        0.7,
+        1.0
+      ],
+      "SliderGrab": [
+        1.0,
+        1.0,
+        1.0,
+        0.3
+      ],
+      "SliderGrabActive": [
+        0.41,
+        0.39,
+        0.8,
+        0.6
+      ],
+      "Tab": [
+        0.336,
+        0.336,
+        0.684,
+        0.786
+      ],
+      "TabActive": [
+        0.40399998,
+        0.40399998,
+        0.726,
+        0.842
+      ],
+      "TabHovered": [
+        0.45,
+        0.45,
+        0.9,
+        0.8
+      ],
+      "TabUnfocused": [
+        0.2832,
+        0.2832,
+        0.56880003,
+        0.8212
+      ],
+      "TabUnfocusedActive": [
+        0.3504,
+        0.3504,
+        0.6516,
+        0.8372
+      ],
+      "TableBorderLight": [
+        0.26,
+        0.26,
+        0.28,
+        1.0
+      ],
+      "TableBorderStrong": [
+        0.31,
+        0.31,
+        0.45,
+        1.0
+      ],
+      "TableHeaderBg": [
+        0.27,
+        0.27,
+        0.38,
+        1.0
+      ],
+      "TableRowBg": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "TableRowBgAlt": [
+        1.0,
+        1.0,
+        1.0,
+        0.07
+      ],
+      "Text": [
+        0.9,
+        0.9,
+        0.9,
+        1.0
+      ],
+      "TextDisabled": [
+        0.6,
+        0.6,
+        0.6,
+        1.0
+      ],
+      "TextSelectedBg": [
+        0.0,
+        0.0,
+        1.0,
+        0.35
+      ],
+      "TitleBg": [
+        0.27,
+        0.27,
+        0.54,
+        0.83
+      ],
+      "TitleBgActive": [
+        0.32,
+        0.32,
+        0.63,
+        0.87
+      ],
+      "TitleBgCollapsed": [
+        0.4,
+        0.4,
+        0.8,
+        0.2
+      ],
+      "WindowBg": [
+        0.0,
+        0.0,
+        0.0,
+        0.85
+      ]
+    },
+    "Menu colors": 2
+  },
+  "Triggerbot": [
+    {
+      "Enabled": true,
+      "Ignore flash": true,
+      "Ignore smoke": true,
+      "Min damage": 12,
+      "Scoped only": false,
+      "Shot delay": 5
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "Triggerbot Key": "MOUSE4",
+  "Visuals": {
+    "Brightness": 0.58,
+    "Color correction": {
+      "Blue": 1.0,
+      "Ghost": 1.0,
+      "Green": 0.897,
+      "Mono": 1.0,
+      "Red": 0.781,
+      "Saturation": 1.0,
+      "Yellow": 1.0
+    },
+    "Deagle spinner": true,
+    "FOV": 10,
+    "Far Z": 2000,
+    "Flash reduction": 11,
+    "Hit effect time": 0.11,
+    "Hit marker time": 0.14,
+    "Inverse ragdoll gravity": true,
+    "Molotov Hull": {
+      "Alpha": 0.3,
+      "Color": "#b6a0ff",
+      "Enabled": true
+    },
+    "No 3d sky": true,
+    "No blur": true,
+    "No fog": true,
+    "No grass": true,
+    "No shadows": true,
+    "No sleeves": true,
+    "Scope Overlay Remover": {
+      "Enabled": true
+    },
+    "Sky": {
+      "Color": [
+        0.0063324384,
+        0.041703694,
+        0.13551402
+      ],
+      "Enabled": true
+    },
+    "Viewmodel FOV": 15,
+    "World": {
+      "Color": [
+        0.7536706,
+        0.49532712,
+        1.0
+      ],
+      "Enabled": true
+    }
+  }
+}
