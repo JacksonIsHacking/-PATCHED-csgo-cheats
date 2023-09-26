@@ -1,4 +1,3 @@
-![maxresdefault](https://github.com/JacksonIsHacking/csgo-cheats/assets/146037364/3376d8b3-b5f1-4168-a3c9-ffdd8d2b5980)
 
 
 <h1> Follow These Steps For The Cheats </h1>
@@ -12,3 +11,4 @@
   <li>5. Then Enjoy Hacking ❤️ <h6> (btw Instert hides the hacks) </h6></li>
 </ul>
 
+![maxresdefault](https://github.com/JacksonIsHacking/csgo-cheats/assets/146037364/3376d8b3-b5f1-4168-a3c9-ffdd8d2b5980)
