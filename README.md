@@ -1,6 +1,7 @@
+<h1> PATCHED </h1>
 
 
-<h1> Follow These Steps For The Cheats </h1>
+<h3> Follow These Steps For The Cheats </h3>
 
 <ul>
   <li>1. Download The Osiris.Dll File</li>
